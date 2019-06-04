@@ -15,7 +15,7 @@ remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "fa_IR"
+locale                   : "en_US"
 dir			                 : "rtl"
 title                    : "دانش جوی"
 title_separator          : "-"
