@@ -15,4 +15,6 @@ layouts_gallery:
 modified: 2016-04-18T16:39:37-04:00
 ---
 
-[همین صفحه](https://DaneshJoy.github.io/about/){: .btn .btn--success .btn--large}
+-------------------------------------
+
+[همین صفحه](https://DaneshJoy.github.io/about/){: .btn .btn--success .btn--small}
