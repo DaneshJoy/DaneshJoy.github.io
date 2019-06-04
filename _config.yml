@@ -68,7 +68,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : true # true, false (default)
 search_full_content      : # true, false (default)
-search_provider          : "lunar" # lunr (default), algolia, google
+search_provider          : "algolia" # lunr (default), algolia, google
 algolia:
   application_id         : "TFEUFMQ3V4" # YOUR_APPLICATION_ID
   index_name             : "dev_DaneshJoy" # YOUR_INDEX_NAME
@@ -234,6 +234,8 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-algolia
+  - jekyll-seo-tag
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -243,6 +245,8 @@ whitelist:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-algolia
+  - jekyll-seo-tag
 
 
 # Archives
@@ -295,3 +299,4 @@ defaults:
       comments: true # true
       share: true
       related: true
+      
