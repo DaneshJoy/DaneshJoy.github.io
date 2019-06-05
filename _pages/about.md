@@ -38,12 +38,10 @@ excerpt: "بیشتر"
 
 * پرداخت امن و ناشناس از طریق رمزارزها
   * بیت کوین
-    * 1L1WuNjQnPVuhQPaX2ZUL1oCJbuuVZrNEc
-    * <a href="../assets/images/BTC.png"><img src="../assets/images/BTC.png" width="100" height="100"></a>
+    * 1L1WuNjQnPVuhQPaX2ZUL1oCJbuuVZrNEc <a href="../assets/images/BTC.png"><img src="../assets/images/BTC.png" width="100" height="100"></a>
   
   * اتریوم
-    * 0x95DA7F18d53A014b3398dC07772da8a637013E8A
-    * <a href="../assets/images/ETH.png"><img src="../assets/images/ETH.png" width="100" height="100"></a>
+    * 0x95DA7F18d53A014b3398dC07772da8a637013E8A <a href="../assets/images/ETH.png"><img src="../assets/images/ETH.png" width="100" height="100"></a>
     
   * بیت کوین کش
     * 19Pga8Pb2k4UrWGakAocM4gSQjZb4NtSpr <a href="../assets/images/BCH.png"><img src="../assets/images/BCH.png" width="100" height="100"></a>
