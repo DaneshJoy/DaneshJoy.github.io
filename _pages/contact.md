@@ -7,7 +7,7 @@ sitemap: true
 
 -------------------------------------
 ### ایمیل
-[**DaneshJoy.info**@gmail.com](mailto:DaneshJoy.info@gmail.com)
+<a href="mailto:DaneshJoy.info@gmail.com" target="_blank" class="btn btn--info btn-lg" role="button"> **DaneshJoy.info**@gmail.com </a>
 
 ### ارسال مستقیم پیام / دیدگاه / انتقاد / پیشنهاد / هر چیزی
 
