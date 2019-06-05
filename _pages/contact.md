@@ -11,7 +11,7 @@ sitemap: true
 
 ###ارسال مستقیم پیام / دیدگاه / انتقاد / پیشنهاد / هر چیزی
 
-<form>
+<form name="gform" id="gform" enctype="text/plain" action="https://docs.google.com/forms/d/e/1FAIpQLScFAgB1FNCANLIH-6sx1zbGt6Oj9m6-sgZBhlgss73DukyMig/formResponse?" target="hidden_iframe" onsubmit="submitted=true;">
   نام:<br>
   <input type="text" name="entry.2005620554" id="entry.2005620554"><br>
   ایمیل (اختیاری):<br>
