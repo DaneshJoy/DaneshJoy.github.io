@@ -22,7 +22,7 @@ excerpt: "بیشتر"
 
 * پرداخت ساده از طریق درگاه اینترنتی
 
-<a href="https://zarinp.al/@saeeddiscovery">درگاه پرداخت امن زرین پال<img src="../assets/images/zarinpal.png" width="200" height="50" style="float:left;"></a>
+<a href="https://zarinp.al/@saeeddiscovery">درگاه پرداخت امن زرین پال<img src="../assets/images/zarinpal.png" width="150" height="40" style="float:right;"></a>
 
 
 * پرداخت از طریق شماره حساب/کارت
