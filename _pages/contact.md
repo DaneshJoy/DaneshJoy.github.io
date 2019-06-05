@@ -3,6 +3,7 @@ permalink: /contact/
 title: "تماس با ما"
 excerpt: "Contact"
 sitemap: true
+share: false
 ---
 
 -------------------------------------
