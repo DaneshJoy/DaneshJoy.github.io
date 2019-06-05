@@ -9,7 +9,7 @@ sitemap: true
 ### ایمیل
 [**DaneshJoy.info**@gmail.com](mailto:DaneshJoy.info@gmail.com)
 
-###ارسال مستقیم پیام / دیدگاه / انتقاد / پیشنهاد / هر چیزی
+### ارسال مستقیم پیام / دیدگاه / انتقاد / پیشنهاد / هر چیزی
 
 <form name="gform" id="gform" enctype="text/plain" action="https://docs.google.com/forms/d/e/1FAIpQLScFAgB1FNCANLIH-6sx1zbGt6Oj9m6-sgZBhlgss73DukyMig/formResponse?" target="hidden_iframe" onsubmit="submitted=true;">
   نام:<br>
