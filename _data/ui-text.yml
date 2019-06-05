@@ -1220,7 +1220,7 @@ fa: &DEFAULT_FA
   pagination_previous        : "قبلی"
   pagination_next            : "بعدی"
   breadcrumb_home_label      : "صفحه اصلی"
-  breadcrumb_separator       : "<"
+  breadcrumb_separator       : "»"
   menu_label                 : "فهرست"
   toc_label                  : "در این صفحه"
   ext_link_label             : "لینک مستقیم"
