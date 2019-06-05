@@ -12,7 +12,10 @@ share: false
 
 ### ارسال مستقیم پیام / دیدگاه / انتقاد / پیشنهاد / هر چیزی
 
-<form name="gform" id="gform" enctype="text/plain" action="https://docs.google.com/forms/d/1yO4CzJsX9kQXHpkl4m9NOeaiSlBOD0Oyhk4A0l_BJOs/viewform?" target="hidden_iframe" onsubmit="submitted=true;">
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScFAgB1FNCANLIH-6sx1zbGt6Oj9m6-sgZBhlgss73DukyMig/viewform?embedded=true" width="640" height="751" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+
+<form name="gform" id="gform" enctype="text/plain" action="https://docs.google.com/forms/d/e/1FAIpQLScFAgB1FNCANLIH-6sx1zbGt6Oj9m6-sgZBhlgss73DukyMig/viewform?usp=sf_link" target="hidden_iframe" onsubmit="submitted=true;">
   نام:<br>
   <input type="text" name="entry.2005620554" id="entry.2005620554"><br>
   ایمیل (اختیاری):<br>
