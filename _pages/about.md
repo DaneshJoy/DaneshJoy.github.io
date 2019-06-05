@@ -33,6 +33,7 @@ excerpt: "بیشتر"
 
 <a href="https://zarinp.al/@saeeddiscovery" class="btn btn--info btn-lg" role="button"><font size="+2"> درگاه پرداخت امن زرین پال </font><img src="../assets/images/zarinpal.png" width="120" height="30" style="float:right;"></a>
 
+
 -------------------------------------
 
 * پرداخت از طریق شماره حساب/کارت
