@@ -34,13 +34,16 @@ excerpt: "بیشتر"
 * پرداخت امن و ناشناس از طریق رمزارزها
   * بیت کوین
     * 1L1WuNjQnPVuhQPaX2ZUL1oCJbuuVZrNEc
-    * <img src="../assets/images/BTC.png" width="100" height="100" style="float:right;">
+    * <a href="../assets/images/BTC.png"><img src="../assets/images/BTC.png" width="100" height="100" style="float:right;"></a>
+  
   * اتریوم
     * 0x95DA7F18d53A014b3398dC07772da8a637013E8A
-    * <img src="../assets/images/ETH.png" width="100" height="100" style="float:right;">
+    * <a href="../assets/images/ETH.png"><img src="../assets/images/ETH.png" width="100" height="100" style="float:right;"></a>
+    
   * بیت کوین کش
     * 19Pga8Pb2k4UrWGakAocM4gSQjZb4NtSpr
-    * <img src="../assets/images/BCH.png" width="100" height="100" style="float:right;">
+    * <a href="../assets/images/BCH.png"><img src="../assets/images/BCH.png" width="100" height="100" style="float:right;"></a>
+    
   * لایت کوین
     * LNeD3CMo47BSv5M1B8iyum7SAw3JkHfWMQ
-    * <img src="../assets/images/LTC.png" width="100" height="100" style="float:right;">
+    * <a href="../assets/images/LTC.png"><img src="../assets/images/LTC.png" width="100" height="100" style="float:right;"></a>
