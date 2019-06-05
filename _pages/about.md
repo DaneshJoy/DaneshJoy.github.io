@@ -30,7 +30,9 @@ excerpt: "بیشتر"
 
 * پرداخت ساده از طریق درگاه اینترنتی
 
-<a href="https://zarinp.al/@saeeddiscovery" class="btn btn--primary btn-lg" role="button">درگاه پرداخت امن زرین پال<img src="../assets/images/zarinpal.png" width="150" height="40" style="float:right;"></a>
+<a href="https://zarinp.al/@saeeddiscovery" class="btn btn--default btn-lg" role="button">درگاه پرداخت امن زرین پال<img src="../assets/images/zarinpal.png" width="150" height="40" style="float:right;"></a>
+
+<a href="https://zarinp.al/@saeeddiscovery" class="btn btn--success btn-lg" role="button">درگاه پرداخت امن زرین پال<img src="../assets/images/zarinpal.png" width="120" height="30" style="float:right;"></a>
 
 -------------------------------------
 
