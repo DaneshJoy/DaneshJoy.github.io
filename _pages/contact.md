@@ -12,9 +12,11 @@ sitemap: true
 ###ارسال مستقیم پیام / دیدگاه / انتقاد / پیشنهاد / هر چیزی
 
 <form>
-  First name:<br>
-  <input type="text" name="firstname"><br>
-  Last name:<br>
-  <input type="text" name="lastname">
+  نام:<br>
+  <input type="text" name="name"><br>
+  ایمیل (اختیاری):<br>
+  <input type="text" name="email">
+  پیام:<br>
+  <textarea name="message" rows="10" cols="30">
   <input type="submit" value="Submit">
 </form>
