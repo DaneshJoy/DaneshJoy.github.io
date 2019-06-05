@@ -17,7 +17,7 @@ sitemap: true
   ایمیل (اختیاری):<br>
   <input type="text" name="entry.1045781291" id="entry.1045781291">
   پیام:<br>
-  <textarea name="entry.839337160" id="entry.839337160" rows="10" cols="30"></textarea>
+  <input type="text" name="entry.839337160" id="entry.839337160">
   <input type="submit" value="ارسال">
 </form>
 
