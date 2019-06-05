@@ -22,7 +22,6 @@ title_separator          : "-"
 name                     : "سعید محققی Saeed Mohagheghi"
 description              : "برنامه نویسی، آموزش، مهندسی پزشکی و چیزهای دیگر"
 url                      : "https://DaneshJoy.ir"
-url                      : "http://127.0.0.1:4000"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "DaneshJoy/DaneshJoy.github.io"
 teaser                   : "/assets/images/DaneshJoy.png"
@@ -236,7 +235,7 @@ plugins:
   - jekyll-include-cache
   - jekyll-algolia
   - jekyll-seo-tag
-
+  
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
