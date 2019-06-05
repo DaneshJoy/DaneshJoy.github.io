@@ -17,6 +17,6 @@ sitemap: true
   ایمیل (اختیاری):<br>
   <input type="text" name="email">
   پیام:<br>
-  <textarea name="message" rows="10" cols="30">
-  <input type="submit" value="Submit">
+  <textarea name="message" rows="10" cols="30"/>
+  <input type="submit" value="ارسال">
 </form>
