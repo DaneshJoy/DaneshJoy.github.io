@@ -19,7 +19,7 @@ share: false
   <input type="text" name="entry.1045781291" id="entry.1045781291">
   پیام:<br>
   <input type="text" name="entry.839337160" id="entry.839337160">
-  <input type="submit" value="ارسال">
+  <input type="submit" value="ارسال" onclick="alert('ارسال پیام به دانش جوی...')">
 </form>
 
 <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {}"></iframe>
