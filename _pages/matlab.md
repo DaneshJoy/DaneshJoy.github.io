@@ -4,6 +4,16 @@ title: "آموزش های کدنویسی در متلب"
 excerpt: "Matlab"
 sitemap: true
 comments: off
+tags:
+    - matlab
+    - video
+    - dsp
+    - dip
+    - image processing
+    - signal processing
+    - متلب
+    - پردازش سیگنال
+    - پردازش تصویر
 ---
 
 -------------------------------------
