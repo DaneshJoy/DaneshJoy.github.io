@@ -5,6 +5,9 @@ excerpt: "Contact"
 sitemap: true
 share: false
 comment: false
+tags:
+    - Contact
+    - تماس
 ---
 
 -------------------------------------

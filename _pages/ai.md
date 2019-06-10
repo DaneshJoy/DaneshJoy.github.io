@@ -5,10 +5,12 @@ excerpt: "Artificial Intelligence, Deep Learning"
 sitemap: true
 comments: off
 tags:
-    - python
-    - video
-    - deep learning
-    - machine learning
+    - Python
+    - Video
+    - Deep Learning
+    - Artificial Intelligence
+    - AI
+    - Machine Learning
     - پایتون
     - یادگیری عمیق
     - یادگیری ماشینی

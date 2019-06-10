@@ -5,12 +5,12 @@ excerpt: "Matlab"
 sitemap: true
 comments: off
 tags:
-    - matlab
-    - video
-    - dsp
-    - dip
-    - image processing
-    - signal processing
+    - Matlab
+    - Video
+    - DSP
+    - DIP
+    - Image Processing
+    - Signal Processing
     - متلب
     - پردازش سیگنال
     - پردازش تصویر

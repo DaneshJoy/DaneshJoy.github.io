@@ -5,12 +5,12 @@ excerpt: "Python"
 sitemap: true
 comments: off
 tags:
-    - python
-    - video
-    - dsp
-    - dip
-    - image processing
-    - signal processing
+    - Python
+    - Video
+    - DSP
+    - DIP
+    - Image Processing
+    - Signal Processing
     - پایتون
     - پردازش سیگنال
     - پردازش تصویر
