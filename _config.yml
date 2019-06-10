@@ -66,13 +66,13 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : true # true, false (default)
-search_full_content      : true # true, false (default)
+search_full_content      : false # true, false (default)
 search_provider          : "algolia" # lunr (default), algolia, google
 algolia:
   application_id         : "TFEUFMQ3V4" # YOUR_APPLICATION_ID
   index_name             : "dev_DaneshJoy" # YOUR_INDEX_NAME
   search_only_api_key    : "c0825a88cfd55d47eb61aeb53f9455b2" # YOUR_SEARCH_ONLY_API_KEY
-  powered_by             : # true (default), false
+  powered_by             : false # true (default), false
 google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
