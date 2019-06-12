@@ -1,13 +1,15 @@
 # main links
 main:
-   - title: "هوش مصنوعی"
-     url: /ai/
-   - title: "پایتون"
-     url: /python/
-   - title: "متلب"
-     url: /matlab/
-   - title: "متفرقه"
-     url: /other/
+   - title: "آموزش"
+   children:
+     - title: "هوش مصنوعی"
+       url: /ai/
+     - title: "پایتون"
+       url: /python/
+     - title: "متلب"
+       url: /matlab/
+     - title: "متفرقه"
+       url: /other/
    - title: "تماس"
      url: /contact/
    - title: "درباره"
