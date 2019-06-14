@@ -12,21 +12,20 @@ feature_row:
     excerpt: "آموزش های یادگیری عمیق<br/>و مطالب مرتبط با هوش مصنوعی"
     url: "/ai/"
     btn_class: "btn--info"
-    btn_label: "شروع"
+    btn_label: "مشاهده آموزش ها"
   - image_path: /assets/images/python_logo.png
     alt: "پایتون"
     title: " پایتون "
     excerpt: "آموزش های کدنویسی در پایتون<br/>و پردازش سیگنال و تصویر"
     url: "/python/"
     btn_class: "btn--info"
-    btn_label: "شروع"
+    btn_label: "مشاهده آموزش ها"
   - image_path: /assets/images/matlab_logo.png
     alt: "متلب"
     title: " متلب "
     excerpt: "آموزش های کدنویسی در متلب<br/>و پردازش سیگنال و تصویر"
     url: "/matlab/"
     btn_class: "btn--info"
-    btn_label: "شروع" 
+    btn_label: "مشاهده آموزش ها" 
 ---
 {% include feature_row %}
-
