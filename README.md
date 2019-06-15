@@ -7,6 +7,7 @@
 
 ## https://DaneshJoy.ir
 
+  * **AI هوش مصنوعی   &nbsp;&nbsp;&nbsp; https://daneshjoy.ir/ai/**
   * **Matlab متلب   &nbsp;&nbsp;&nbsp; https://daneshjoy.ir/matlab/**
   * **Python پایتون &nbsp; https://daneshjoy.ir/python/**
   * **Other متفرقه &nbsp;&nbsp;&nbsp; https://daneshjoy.ir/other/**
