@@ -113,7 +113,7 @@ author:
   location         : "ایران"
   email            : "DaneshJoy.info@gmail.com"
   links:
-    - label: "Email"
+    - label: "ایمیل"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:DaneshJoy.info@gmail.com
     - label: "Website"
@@ -125,12 +125,19 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "GitHub"
+    - label: "گیتهاب"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/DaneshJoy/"
+      url: "https://github.com/DaneshJoy/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "یوتیوب"
+      icon: "fab fa-fw fab fa-youtube"
+      url: "https://www.youtube.com/channel/UCt4zvrW8BRplDnC7Psr2gQA/"
+    - label: "آپارات"
+      icon: "fas fa-fw fas fa-film"
+      url: "https://www.aparat.com/DaneshJoy/"
+      
 
 # Site Footer
 footer:
@@ -141,7 +148,7 @@ footer:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
-    - label: "GitHub"
+    - label: "گیتهاب"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/DaneshJoy/"
     - label: "GitLab"
@@ -153,10 +160,10 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
-    - label: "YouTube"
+    - label: "یوتیوب"
       icon: "fab fa-fw fab fa-youtube"
       url: "https://www.youtube.com/channel/UCt4zvrW8BRplDnC7Psr2gQA/"
-    - label: "Aparat"
+    - label: "آپارات"
       icon: "fas fa-fw fas fa-film"
       url: "https://www.aparat.com/DaneshJoy/"
 
