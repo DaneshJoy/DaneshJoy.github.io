@@ -153,6 +153,12 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
+    - label: "YouTube"
+      icon: "fab fa-fw fab fa-youtube"
+      url: "https://www.youtube.com/channel/UCt4zvrW8BRplDnC7Psr2gQA/"
+    - label: "Aparat"
+      icon: "fas fa-fw fas fa-film"
+      url: "https://www.aparat.com/DaneshJoy/"
 
 
 # Reading Files

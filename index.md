@@ -29,3 +29,8 @@ feature_row:
     btn_label: "مشاهده آموزش ها" 
 ---
 {% include feature_row %}
+
+
+{% for post in site.posts limit: 5 %}
+  {% include archive-single.html %}
+{% endfor %}
