@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: single
 permalink: /
 author_profile: true
 excerpt: >
@@ -8,21 +8,21 @@ excerpt: >
 feature_row:
   - image_path: /assets/images/ai_logo.png
     alt: "هوش مصنوعی"
-    title: " هوش مصنوعی "
+    title: "&nbsp; هوش مصنوعی &nbsp;"
     excerpt: "آموزش های یادگیری عمیق<br/>و مطالب مرتبط با هوش مصنوعی"
     url: "/ai/"
     btn_class: "btn--info"
     btn_label: "مشاهده آموزش ها"
   - image_path: /assets/images/python_logo.png
     alt: "پایتون"
-    title: " پایتون "
+    title: "&nbsp; پایتون &nbsp;"
     excerpt: "آموزش های کدنویسی در پایتون<br/>و پردازش سیگنال و تصویر"
     url: "/python/"
     btn_class: "btn--info"
     btn_label: "مشاهده آموزش ها"
   - image_path: /assets/images/matlab_logo.png
     alt: "متلب"
-    title: " متلب "
+    title: "&nbsp; متلب &nbsp;"
     excerpt: "آموزش های کدنویسی در متلب<br/>و پردازش سیگنال و تصویر"
     url: "/matlab/"
     btn_class: "btn--info"
@@ -30,12 +30,6 @@ feature_row:
 ---
 {% include feature_row %}
 
-{% for post in paginator.pages %}
+{% for post in site.posts limit: 5 %}
   {% include archive-single.html %}
 {% endfor %}
-
-{% include paginator.html %}
-<!-- 
-{% for post in site.posts %}
-  {% include archive-single.html %}
-{% endfor %} -->
