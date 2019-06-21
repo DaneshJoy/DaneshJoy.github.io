@@ -13,23 +13,19 @@ tags:
     - پردازش سیگنال
 ---
 
-# MatlabDSP
 **کدهای کلاس پردازش سیگنال با متلب**
 
-
-وب سایت: http://daneshjoy.ir/matlabdsp
-
---------------------
-
-**دانلود کدها:** <button name="button" onclick="https://github.com/DaneshJoy/matlabdsp/zipball/master">zip فایل</button> <a class="github-button" href="https://github.com/DaneshJoy/MatlabDSP/archive/master.zip" data-icon="octicon-cloud-download" data-size="large" aria-label="Download DaneshJoy/MatlabDSP on GitHub">Download</a>
-
-> <p> &#x202b; برای اجرای کدها باید ورژن متلب بالاتر از 2016a باشد</p>
+## دانلود کدها
+- صفحه گیتهاب کدها: <a  href="http://github.com/DaneshJoy/matlabdsp" target="_blank">MatlabDSP on Github</a><br/>
+- دانلود مستقیم کدها: <a  href="https://github.com/DaneshJoy/matlabdsp/archive/master.zip">Download</a><br/>
+- *&#x202b;برای اجرای کدها باید ورژن متلب بالاتر از 2016a باشد*
 
 -------------------------------------
 
 ## لینک ویدیوهای آموزشی برای هر کد
+
 -------------------------------------
-  
+
 ### 1- SinePlay
 
 ||||
@@ -56,7 +52,7 @@ tags:
 
 <p align="center">
   <a href="https://daneshjoy.ir">
-    <img src="./res/DaneshJoy.png" width="300px" title="DaneshJoy" alt="DaneshJoy"> 
+    <img src="../../assets/images/DaneshJoy.png" width="300px" title="DaneshJoy" alt="DaneshJoy"> 
   </a>
 </p>
 

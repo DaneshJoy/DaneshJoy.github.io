@@ -14,19 +14,16 @@ tags:
     - پردازش تصویر
 ---
 
-# Matlab MIP
 **کدهای کلاس پردازش تصاویر پزشکی با متلب**
 
-
-وب سایت: http://daneshjoy.ir/matlabmip
-
---------------------
-
-**دانلود کدها:** <button name="button" onclick="https://github.com/DaneshJoy/matlabmip/zipball/master">zip فایل</button> <a class="github-button" href="https://github.com/DaneshJoy/matlabmip/archive/master.zip" data-icon="octicon-cloud-download" data-size="large" aria-label="Download DaneshJoy/MatlabMIP on GitHub">Download</a>
+## دانلود کدها
+- صفحه گیتهاب کدها: <a  href="https://github.com/DaneshJoy/matlabmip" target="_blank">MatlabMIP on Github</a><br/>
+- دانلود مستقیم کدها: <a  href="https://github.com/DaneshJoy/matlabmip/archive/master.zip">Download</a>
 
 -------------------------------------
 
 ## لینک ویدیوهای آموزشی برای هر کد
+
 -------------------------------------
   
 ### 1- جلسه اول
@@ -70,7 +67,7 @@ tags:
 
 <p align="center">
   <a href="https://daneshjoy.ir">
-    <img src="./res/DaneshJoy.png" width="300px" title="DaneshJoy" alt="DaneshJoy"> 
+    <img src="../../assets/images/DaneshJoy.png" width="300px" title="DaneshJoy" alt="DaneshJoy"> 
   </a>
 </p>
 
