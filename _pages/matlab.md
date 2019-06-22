@@ -36,7 +36,11 @@ feature_row:
 
 {% include feature_row  type="right" %}
 
--------------------------------------
+
+<div class="well">
+<div class="rw-ui-container"></div>
+</div>
+
 
 <!-- <div class="well">
 

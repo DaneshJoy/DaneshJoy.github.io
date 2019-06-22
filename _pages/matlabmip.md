@@ -71,3 +71,6 @@ tags:
   </a>
 </p>
 
+<div class="well">
+<div class="rw-ui-container"></div>
+</div>
