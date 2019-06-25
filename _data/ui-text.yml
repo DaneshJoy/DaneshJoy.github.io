@@ -1228,7 +1228,7 @@ fa: &DEFAULT_FA
   minute_read                : "(طول مطالعه (دقیقه"
   share_on_label             : "اشتراک گذاری در"
   meta_label                 :
-  tags_label                 : "تگ ها: "
+  tags_label                 : "برچسب ها: "
   categories_label           : "دسته بندی ها: "
   date_label                 : "به روز شده در: "
   comments_label             : "ارسال نظر"

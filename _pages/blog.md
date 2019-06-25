@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: "وبلاگ"
-permalink: /posts/
+permalink: /blog/
 author_profile: true
 ---
 
