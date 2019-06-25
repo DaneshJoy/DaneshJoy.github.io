@@ -8,6 +8,8 @@ main:
      url: /matlab/
    - title: "متفرقه"
      url: /other/
+   - title: "وبلاگ"
+     url: /blog/
    - title: "تماس"
      url: /contact/
    - title: "درباره"
