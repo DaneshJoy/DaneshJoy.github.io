@@ -25,9 +25,19 @@ feature_row:
     url: "/matlab/"
     btn_class: "btn--info"
     btn_label: "مشاهده آموزش ها" 
+feature_row۲:
+  - image_path: /assets/images/daneshjoy-blog.png
+    alt: "وبلاگ"
+    title: "&nbsp; وبلاگ &nbsp;"
+    excerpt: "یادداشت های من"
+    url: "/posts/"
+    btn_class: "btn--info"
+    btn_label: "مشاهده یادداشت ها"
 ---
 {% include feature_row %}
 
-{% for post in site.posts limit: 5 %}
+{% include feature_row id="feature_row۲" type="right" %}
+
+{% comment %} {% for post in site.posts limit: 5 %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} {% endcomment %}
