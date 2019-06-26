@@ -4,17 +4,6 @@ title: "آموزش های کدنویسی در متلب"
 excerpt: "Matlab"
 sitemap: true
 comments: off
-tags:
-    - Matlab
-    - Video
-    - DSP
-    - DIP
-    - MIP
-    - Image Processing
-    - Signal Processing
-    - متلب
-    - پردازش سیگنال
-    - پردازش تصویر
 feature_row:
   - image_path: /assets/images/john-schnobrich-520022-unsplash.jpg
     alt: "پردازش سیگنال دیجیتال در متلب"
@@ -36,6 +25,14 @@ feature_row:
 
 {% include feature_row  type="right" %}
 
+## مطالب مرتبط از وبلاگ
+
+{% assign posts = site.posts | where_exp: "post", "post.tags contains 'متلب'" %}
+{% for post in posts %}
+  <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+
+-------------------------------------
 
 <div class="well">
 <div class="rw-ui-container"></div>

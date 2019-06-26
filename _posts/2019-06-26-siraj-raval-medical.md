@@ -3,16 +3,14 @@ layout: single
 category: "blog"
 title:  "اپلیکیشن پزشکی با هوش مصنوعی"
 tags:
-  - blog
   - وبلاگ
   - آموزش
   - مهندسی پزشکی
-  - biomedical engineering
-  - bme
-  - ai
   - هوش مصنوعی
-  - deep learning
   - یادگیری عمیق
+  - موبایل
+  - اپلیکیشن
+  - پایتون
 ---
 
 
@@ -50,13 +48,13 @@ tags:
 
 
  <i class="fab fa-fw fab fa-youtube"></i> لینک یوتیوب ویدیو :
-<br/><a href="https://www.youtube.com/watch?v=J9kbZ5I8gdM" target="_blank">How to Build a Healthcare Startup</a> *Youtube*
+<br/><a href="https://www.youtube.com/watch?v=J9kbZ5I8gdM" target="_blank">How to Build a Biomedical Startup</a> *Youtube*
 
 <i class="fas fa-fw fas fa-film"></i> این ویدیو آموزشی توی کانال آپارات دانش جوی هم آپلود شده که از لینک زیر می تونید مشاهده یا دانلود کنید:
-<br/><a href="http://aparat.com/v/xHyt3" target="_blank">How to Build a Healthcare Startup</a> *Aparat*
+<br/><a href="http://aparat.com/v/xHyt3" target="_blank">How to Build a Biomedical Startup</a> *Aparat*
 
  <i class="fab fa-fw fa-github"></i> از صفحه گیتهاب این آموزش هم میتونید کدها رو دانلود کنید :
-<br/><a href="https://github.com/llSourcell/How-to-Build-a-Biomedical-Startup" target="_blank">How to Build a Healthcare Startup</a> *Github*
+<br/><a href="https://github.com/llSourcell/How-to-Build-a-Biomedical-Startup" target="_blank">How to Build a Biomedical Startup</a> *Github*
 
 <div id="16239956891"><script type="text/JavaScript" src="https://www.aparat.com/embed/xHyt3?data[rnddiv]=16239956891&data[responsive]=yes"></script></div>
 

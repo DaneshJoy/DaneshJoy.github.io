@@ -4,21 +4,20 @@ title: "آموزش های کدنویسی در پایتون"
 excerpt: "Python"
 sitemap: true
 comments: off
-tags:
-    - Python
-    - Video
-    - DSP
-    - DIP
-    - Image Processing
-    - Signal Processing
-    - پایتون
-    - پردازش سیگنال
-    - پردازش تصویر
 ---
 
 -------------------------------------
 
 <p> &#x202b; فعلا خالیه! </p>
+
+## مطالب مرتبط از وبلاگ
+
+{% assign posts = site.posts | where_exp: "post", "post.tags contains 'پایتون'" %}
+{% for post in posts %}
+  <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+
+-------------------------------------
 
 <div class="well">
 <div class="rw-ui-container"></div>
