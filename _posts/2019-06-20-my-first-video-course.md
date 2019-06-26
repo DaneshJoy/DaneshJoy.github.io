@@ -26,3 +26,8 @@ tags:
 حدود یک سال بعدش هم یه دوره دیگه برای تکمیل مباحث براشون آماده کردم که شد [آموزش برنامه نویسی یادگیری عمیق با پایتون (TensorFlow و Keras)](https://faradars.org/courses/fvml96071-deep-learning-programming-using-python).
 
 همین تجربه باعث شد که به فکر راه اندازی یک سایت شخصی بیفتم. یه سایت برای آموزش های رایگان! و یکی دوسال هم گذشت تا الان...، که بالاخره این سایت راه افتاد. :four_leaf_clover:
+
+
+<div class="well">
+<div class="rw-ui-container"></div>
+</div>
