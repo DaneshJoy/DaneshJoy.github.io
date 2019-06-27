@@ -1252,8 +1252,8 @@ fa: &DEFAULT_FA
   comment_btn_submitted      : "ارسال شد"
   comment_success_msg        : ".باتشکر از ارسال دیدگاه! پس از تأیید، این دیدگاه در سایت نشان داده خواهد شد"
   comment_error_msg          : ".متاسفانه در ارسال شما خطایی بود. لطفا مطمئن شوید تمام فیلدهای مورد نیاز تکمیل شده و دوباره امتحان کنید"
-  loading_label              : "...بارگذاری"
-  search_placeholder_text    : "...عبارت جستجوی خود را وارد کنید"
+  loading_label              : "بارگذاری..."
+  search_placeholder_text    : "عبارت جستجوی خود را وارد کنید..."
   results_found              : "نتایج"
   back_to_top                : "بازگشت به بالا"
 fa-IR:
