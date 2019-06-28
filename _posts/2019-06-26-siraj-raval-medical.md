@@ -32,12 +32,6 @@ tags:
 <i class="fab fa-fw fa-github"></i> از صفحه گیتهاب این آموزش هم میتونید کدها رو دانلود کنید :
 <br/><a href="https://github.com/llSourcell/How_to_Build_a_healthcare_startup" target="_blank">How to Build a Healthcare Startup</a> *Github*
 
-<div class="well">
-<div class="rw-ui-container"></div>
-</div>
-
-<div id="81852037447"><script type="text/JavaScript" src="https://www.aparat.com/embed/PCVgS?data[rnddiv]=81852037447&data[responsive]=yes"></script></div>
-
 -------------------------
 
 :two:
@@ -48,7 +42,9 @@ tags:
 
 البته این برنامه هیچ وقت نمی تونه جای یه دکتر یا متخصص رو بگیره ولی به قول خود سیراج:
 <div dir="ltr">
+  
 > There are millions of people in this world without access to healthcare, and while this app isn't perfect, an automated diagnosis is better than no diagnosis.
+
 </div>
 
 
@@ -64,6 +60,10 @@ tags:
 <div class="well">
 <div class="rw-ui-container"></div>
 </div>
+
+-------------------------
+
+<div id="81852037447"><script type="text/JavaScript" src="https://www.aparat.com/embed/PCVgS?data[rnddiv]=81852037447&data[responsive]=yes"></script></div>
 
 <div id="16239956891"><script type="text/JavaScript" src="https://www.aparat.com/embed/xHyt3?data[rnddiv]=16239956891&data[responsive]=yes"></script></div>
 
