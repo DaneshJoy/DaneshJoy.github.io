@@ -5,12 +5,9 @@ excerpt: "Digital Signal Processing in Matlab"
 sitemap: true
 comments: off
 tags:
-    - Matlab
-    - Video
-    - DSP
-    - Signal Processing
     - متلب
     - پردازش سیگنال
+    - آموزش
 ---
 
 **کدهای کلاس پردازش سیگنال با متلب**
@@ -26,33 +23,31 @@ tags:
 
 -------------------------------------
 
-### 1- SinePlay
+### 1- ایجاد و آنالیز سیگنال سینوسی در حوزه زمان و فرکانس
 
-||||
-| :----: | :----: | -----: |
-| [یوتیوب](https://youtu.be/Qfki1clmsPs) | [آپارات](https://www.aparat.com/v/kl1eE) | قسمت 1: ایجاد سیگنال سینوسی در متلب |
-| [یوتیوب](https://youtu.be/27PBMl7l6sk) | [آپارات](https://www.aparat.com/v/oYOB7) | قسمت 2: نکات محاسبه تبدیل فوریه در متلب |
-| [یوتیوب](https://youtu.be/yYXC3fu3Dpo) | [آپارات](https://www.aparat.com/v/B63Lo) | قسمت 3: تشخیص پیک ساده و نمایش نتایج |
-| [یوتیوب](https://youtu.be/4_hRsE792kA) | [آپارات](https://www.aparat.com/v/iZROx) | قسمت 4: تاثیر نویز در حوزه های زمان و فرکانس |
+| **SinePlay** | **یوتیوب** | **آپارت** |
+| قسمت 1: ایجاد سیگنال سینوسی در متلب | <a href="https://youtu.be/Qfki1clmsPs" target="_blank"><img src="{{ '/assets/images/youtube.png' | relative_url }}" width="30px" title="یوتیوب" alt="یوتیوب"></a> | <a href="https://www.aparat.com/v/kl1eE" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> |
+| قسمت 2: نکات محاسبه تبدیل فوریه در متلب | <a href="https://youtu.be/27PBMl7l6sk" target="_blank"><img src="{{ '/assets/images/youtube.png' | relative_url }}" width="30px" title="یوتیوب" alt="یوتیوب"></a> | <a href="https://www.aparat.com/v/oYOB7" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> |
+| قسمت 3: تشخیص پیک ساده و نمایش نتایج | <a href="https://youtu.be/yYXC3fu3Dpo" target="_blank"><img src="{{ '/assets/images/youtube.png' | relative_url }}" width="30px" title="یوتیوب" alt="یوتیوب"></a> | <a href="https://www.aparat.com/v/B63Lo" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> |
+| قسمت 4: تاثیر نویز در حوزه های زمان و فرکانس | <a href="https://youtu.be/4_hRsE792kA" target="_blank"><img src="{{ '/assets/images/youtube.png' | relative_url }}" width="30px" title="یوتیوب" alt="یوتیوب"></a> | <a href="https://www.aparat.com/v/iZROx" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> |
 
 
 -------------------------------------
 
-### 2- ECG PeakAnalysis
+### 2- آنالیز سیگنال قلبی ECG
 
-||||
-| :----: | :----: | -----: |
-| [یوتیوب](https://youtu.be/c-qYhtngcjU) | [آپارات](https://www.aparat.com/v/ihHDt) |  &#x202b; قسمت 1: حذف ترند سیگنال ECG  |
-| [یوتیوب](https://youtu.be/ASyLt3KfTBk) | [آپارات](https://www.aparat.com/v/qyzd2) |  &#x202b; قسمت 2: تشخیص پیک های R و S در سیگنال ECG  |
-| [یوتیوب](https://youtu.be/a4GSkAt845E) | [آپارات](https://www.aparat.com/v/I8BkE) |  &#x202b; قسمت 3: حذف نویز فرکانس بالا و تشخیص پیک Q |
-| [یوتیوب](https://youtu.be/BenNWPkpSoM) | [آپارات](https://www.aparat.com/v/zr1Tv) | قسمت 4: گزارش خطای تشخیص پیک و مشخصات زمانی پیک ها |
- 
-  
+| **ECG PeakAnalysis** | **یوتیوب** | **آپارت** |
+|  &#x202b; قسمت 1: حذف ترند سیگنال ECG | <a href="https://youtu.be/c-qYhtngcjU" target="_blank"><img src="{{ '/assets/images/youtube.png' | relative_url }}" width="30px" title="یوتیوب" alt="یوتیوب"></a> | <a href="https://www.aparat.com/v/ihHDt" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> |
+|  &#x202b; قسمت 2: تشخیص پیک های R و S در سیگنال ECG | <a href="https://youtu.be/ASyLt3KfTBk" target="_blank"><img src="{{ '/assets/images/youtube.png' | relative_url }}" width="30px" title="یوتیوب" alt="یوتیوب"></a> | <a href="https://www.aparat.com/v/qyzd2" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> |
+|  &#x202b; قسمت 3: حذف نویز فرکانس بالا و تشخیص پیک Q | <a href="https://youtu.be/a4GSkAt845E" target="_blank"><img src="{{ '/assets/images/youtube.png' | relative_url }}" width="30px" title="یوتیوب" alt="یوتیوب"></a> | <a href="https://www.aparat.com/v/I8BkE" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> |
+| قسمت 4: گزارش خطای تشخیص پیک و مشخصات زمانی پیک ها | <a href="https://youtu.be/BenNWPkpSoM" target="_blank"><img src="{{ '/assets/images/youtube.png' | relative_url }}" width="30px" title="یوتیوب" alt="یوتیوب"></a> | <a href="https://www.aparat.com/v/zr1Tv" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> |
+
+
 -------------------------------------
 
 <p align="center">
   <a href="https://daneshjoy.ir">
-    <img src="../../assets/images/DaneshJoy.png" width="300px" title="DaneshJoy" alt="DaneshJoy"> 
+    <img src="{{ '/assets/images/DaneshJoy.png' | relative_url }}" width="300px" title="DaneshJoy" alt="DaneshJoy"> 
   </a>
 </p>
 
