@@ -41,8 +41,10 @@ tags:
 حتی گاهی مثل یه پزشک واقعی! ازتون سوال هم می پرسه تا اطلاعات بیشتری بهش بدید.
 
 البته این برنامه هیچ وقت نمی تونه جای یه دکتر یا متخصص رو بگیره ولی به قول خود سیراج
-  
-> &#x202d; There are millions of people in this world without access to healthcare, and while this app isn't perfect, an automated diagnosis is better than no diagnosis.
+
+<div dir="rtl">
+>> <q> There are millions of people in this world without access to healthcare, and while this app isn't perfect, an automated diagnosis is better than no diagnosis. </q>
+</div>
 
 
 <i class="fab fa-fw fab fa-youtube"></i> لینک یوتیوب ویدیو :
