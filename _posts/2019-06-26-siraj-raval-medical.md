@@ -26,33 +26,17 @@ tags:
 <i class="fab fa-fw fab fa-youtube"></i> لینک یوتیوب ویدیو  :
 <br/><a href="https://www.youtube.com/watch?v=b8xlCNzkX5w" target="_blank">How to Build a Healthcare Startup</a> *Youtube*	
 
-
-<div class="well">
-<div class="rw-ui-container"></div>
-</div>
-
 <i class="fas fa-fw fas fa-film"></i> این ویدیو آموزشی توی کانال آپارات دانش جوی هم آپلود شده که از لینک زیر می تونید مشاهده یا دانلود کنید:
 <br/><a href="http://aparat.com/v/PCVgS" target="_blank">How to Build a Healthcare Startup</a> *Aparat*
 
-
-<div class="well">
-<div class="rw-ui-container"></div>
-</div>
-
 <i class="fab fa-fw fa-github"></i> از صفحه گیتهاب این آموزش هم میتونید کدها رو دانلود کنید :
 <br/><a href="https://github.com/llSourcell/How_to_Build_a_healthcare_startup" target="_blank">How to Build a Healthcare Startup</a> *Github*
-
 
 <div class="well">
 <div class="rw-ui-container"></div>
 </div>
 
 <div id="81852037447"><script type="text/JavaScript" src="https://www.aparat.com/embed/PCVgS?data[rnddiv]=81852037447&data[responsive]=yes"></script></div>
-
-
-<div class="well">
-<div class="rw-ui-container"></div>
-</div>
 
 -------------------------
 
@@ -63,7 +47,9 @@ tags:
 حتی گاهی مثل یه پزشک واقعی! ازتون سوال هم می پرسه تا اطلاعات بیشتری بهش بدید.
 
 البته این برنامه هیچ وقت نمی تونه جای یه دکتر یا متخصص رو بگیره ولی به قول خود سیراج:
+<div dir="ltr">
 > There are millions of people in this world without access to healthcare, and while this app isn't perfect, an automated diagnosis is better than no diagnosis.
+</div>
 
 
 <i class="fab fa-fw fab fa-youtube"></i> لینک یوتیوب ویدیو :
@@ -74,6 +60,10 @@ tags:
 
 <i class="fab fa-fw fa-github"></i> از صفحه گیتهاب این آموزش هم میتونید کدها رو دانلود کنید :
 <br/><a href="https://github.com/llSourcell/How-to-Build-a-Biomedical-Startup" target="_blank">How to Build a Biomedical Startup</a> *Github*
+
+<div class="well">
+<div class="rw-ui-container"></div>
+</div>
 
 <div id="16239956891"><script type="text/JavaScript" src="https://www.aparat.com/embed/xHyt3?data[rnddiv]=16239956891&data[responsive]=yes"></script></div>
 
