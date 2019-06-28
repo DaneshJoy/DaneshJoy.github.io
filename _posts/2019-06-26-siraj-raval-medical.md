@@ -42,7 +42,7 @@ tags:
 
 البته این برنامه هیچ وقت نمی تونه جای یه دکتر یا متخصص رو بگیره ولی به قول خود سیراج
   
-> &#x202e; There are millions of people in this world without access to healthcare, and while this app isn't perfect, an automated diagnosis is better than no diagnosis.
+> &#x202a; There are millions of people in this world without access to healthcare, and while this app isn't perfect, an automated diagnosis is better than no diagnosis.
 
 
 <i class="fab fa-fw fab fa-youtube"></i> لینک یوتیوب ویدیو :
