@@ -40,12 +40,9 @@ tags:
 این برنامه از یه مدل یادگیری عمیق به اسم BioBERT استفاده می کنه که با بیش از ۷۰۰ هزار سوال و جواب پزشکی، آموزش دیده. تو این برنامه شما مشکلتون رو به صورت صوتی (و البته به زبان انگلیسی) عنوان می کنید و اون هم بهتون می گه که مشکلتون چیه یا چه کاری باید برای درمانش انجام بدید.
 حتی گاهی مثل یه پزشک واقعی! ازتون سوال هم می پرسه تا اطلاعات بیشتری بهش بدید.
 
-البته این برنامه هیچ وقت نمی تونه جای یه دکتر یا متخصص رو بگیره ولی به قول خود سیراج:
-<div dir="ltr">
+البته این برنامه هیچ وقت نمی تونه جای یه دکتر یا متخصص رو بگیره ولی به قول خود سیراج
   
-> There are millions of people in this world without access to healthcare, and while this app isn't perfect, an automated diagnosis is better than no diagnosis.
-
-</div>
+> &#x202e; There are millions of people in this world without access to healthcare, and while this app isn't perfect, an automated diagnosis is better than no diagnosis.
 
 
 <i class="fab fa-fw fab fa-youtube"></i> لینک یوتیوب ویدیو :
