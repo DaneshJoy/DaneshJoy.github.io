@@ -18,6 +18,8 @@ tags:
 
 -------------------------
 
+<div class="rw-ui-container"></div>
+
 :one:
 ویدیو اول با عنوان How to Build a Healthcare Startup آموزش ساخت یه اپلیکیشن موبایل به نام Macy هست که با استفاده از هوش مصنوعی به شما آموزش یوگا میده!
 
@@ -59,5 +61,3 @@ tags:
 <div id="16239956891"><script type="text/JavaScript" src="https://www.aparat.com/embed/xHyt3?data[rnddiv]=16239956891&data[responsive]=yes"></script></div>
 
 -------------------------
-
-<div class="rw-ui-container"></div>
