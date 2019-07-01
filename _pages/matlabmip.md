@@ -15,8 +15,9 @@ tags:
 
 ## دانلود کدها
 
-- صفحه گیتهاب کدها: <a  href="https://github.com/DaneshJoy/matlabmip" target="_blank">MatlabMIP on Github</a>
-- دانلود مستقیم کدها: <a  href="https://github.com/DaneshJoy/matlabmip/archive/master.zip">Download</a>
+- صفحه گیتهاب کدها: <a  href="https://github.com/DaneshJoy/matlabmip" target="_blank"><img src="{{ '/assets/images/github.png' | relative_url }}" width="30px" title="MatlabDSP on Github" alt="MatlabDSP on Github"></a><br/>
+- دانلود مستقیم کدها: <a  href="https://github.com/DaneshJoy/matlabmip/archive/master.zip"><img src="{{ '/assets/images/download.png' | relative_url }}" width="40px" title="دانلود" alt="دانلود"></a><br/>
+
 
 -------------------------------------
 

@@ -5,14 +5,14 @@ excerpt: "Matlab"
 sitemap: true
 comments: off
 feature_row:
-  - image_path: /assets/images/john-schnobrich-520022-unsplash.jpg
+  - image_path: /assets/images/signal.png
     alt: "پردازش سیگنال دیجیتال در متلب"
     title: "&nbsp; پردازش سیگنال دیجیتال در متلب &nbsp;"
     excerpt: "مشاهده و پردازش سیگنال های دیجیتال و پزشکی<br/>فیلتر، حذف نویز، آنالیز و ..."
     url: "/matlab/dsp"
     btn_class: "btn--info"
     btn_label: "مشاهده دوره"
-  - image_path: /assets/images/artem-sapegin-199614-unsplash.jpg
+  - image_path: /assets/images/image.png
     alt: "پردازش تصاویر پزشکی در متلب"
     title: "&nbsp; پردازش تصاویر پزشکی در متلب &nbsp;"
     excerpt: "آشنایی و پردازش تصاویر سه بعدی پزشکی<br/>خواندن و نوشتن، بهبود کیفیت و ..."
