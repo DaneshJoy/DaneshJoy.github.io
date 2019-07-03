@@ -1,7 +1,7 @@
 ---
 layout: single
 category: "blog"
-title:  "اپلیکیشن پزشکی با هوش مصنوعی"
+title:  "آموزش ساخت اپلیکیشن با هوش مصنوعی برای موبایل"
 tags:
   - وبلاگ
   - آموزش
@@ -15,6 +15,11 @@ tags:
 
 
 آقای سیراج راوال (Siraj Raval)، که از خوبای آموزش دیپ لرنینگ و هوش مصنوعی هستن، تازگیا دوتا ویدیو آموزشی خوب منتشر کردن.
+
+توی هر دوتا آموزش، از <a href="https://flutter.dev" target="_blank">Flutter</a> استفاده شده.
+توی Flutter میشه با یه کد ثابت، هم برای اندروید و هم برای آی او اس برنامه ساخت!
+توی ویدیو اول، نحوه نصب و راه اندازی Flutter رو هم آموزش داده.
+<a href="https://flutter.dev" target="_blank"><img src="https://flutter.dev/assets/flutter-lockup-4cb0ee072ab312e59784d9fbf4fb7ad42688a7fdaea1270ccf6bbf4f34b7e03f.svg" title="سایت فلاتر" alt="سایت فلاتر"></a>
 
 -------------------------
 
