@@ -11,7 +11,7 @@ tags:
     - آموزش
 ---
 
-**کدهای کلاس پردازش سیگنال با متلب**
+**کدهای کلاس آموزش متلب از صفر**
 
 ## دانلود کدها
 - صفحه گیتهاب کدها: <a  href="http://github.com/DaneshJoy/matlab_from_zero" target="_blank"><img src="{{ '/assets/images/github.png' | relative_url }}" width="30px" title="Matlab_from_Zero_ on Github" alt="Matlab_from_Zero_ on Github"></a><br/>
