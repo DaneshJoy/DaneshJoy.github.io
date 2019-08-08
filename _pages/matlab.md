@@ -5,6 +5,13 @@ excerpt: "Matlab"
 sitemap: true
 comments: off
 feature_row:
+  - image_path: /assets/images/matlab_from_zero.png
+    alt: "آموزش متلب از صفر"
+    title: "&nbsp; آموزش متلب از صفر &nbsp;"
+    excerpt: "کار با ماتریس ها و پردازش سیگنال و تصویر مقدماتی<br/>دستورات پر کاربرد، کار با توابع و ..."
+    url: "/matlab/from_zero"
+    btn_class: "btn--info"
+    btn_label: "مشاهده دوره"
   - image_path: /assets/images/signal.png
     alt: "پردازش سیگنال دیجیتال در متلب"
     title: "&nbsp; پردازش سیگنال دیجیتال در متلب &nbsp;"
