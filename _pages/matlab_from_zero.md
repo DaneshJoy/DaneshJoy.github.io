@@ -59,6 +59,14 @@ tags:
 - **حذف نویز**
 - **دستورات (imread / imshow / image / imagesc / montage / imshowpair / im2double /  mat2gray / rgb2gray / imcomplement / imreducehaze / imwrite / imhist / histeq / adapthisteq / imnoise / medfilt2 / wiener2)**
 
+--------------------------
+## جلسه 5
+- **حل معادلات چند جمله ای**
+- ** حل چند معادله و چند متغیر**
+- **حلقه ها (for و while)**
+- **Pre-Allocation مقدار دهی متغیرها از ابتدا**
+- **دستورات (solve / root / roots / poly / ezplot / vpa / dsolve / integral / for / while)**
+
 -------------------------------------
 
 ## لینک ویدیوهای آموزشی برای هر کد
