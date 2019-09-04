@@ -8,7 +8,8 @@ tags:
     - متلب
     - پردازش سیگنال
     - پردازش تصویر
-    - آموزش
+    - هوش مصنوعی
+	- آموزش
 ---
 
 **کدهای کلاس آموزش متلب از صفر**
@@ -66,6 +67,15 @@ tags:
 - **حلقه ها (for و while)**
 - **Pre-Allocation مقدار دهی متغیرها از ابتدا**
 - **دستورات (solve / root / roots / poly / ezplot / vpa / dsolve / integral / for / while)**
+
+--------------------------
+## جلسه 6
+- **تشخیص چهره در تصاویر**
+- **نمایش مستطیل و متن بر روی تصاویر**
+- **استفاده از وب کم برای گرفتن تصویر**
+- **تشخیص اشیا با هوش مصنوعی (Deep Learning)**
+- **حذف نویز با هوش مصنوعی (Deep Learning)**
+- **دستورات (uigetfile / fullfile / vision.CascadeObjectDetector / rectangle / text / insertObjectAnnotation / webcam / preview / snapshot / questdlg / alexnet / imresize / classify / denoisingNetwork / denoiseImage / cat)**
 
 -------------------------------------
 
