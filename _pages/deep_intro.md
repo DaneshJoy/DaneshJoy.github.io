@@ -15,7 +15,7 @@ tags:
 
 ## دانلود کدها
 - صفحه گیتهاب  <a  href="http://github.com/DaneshJoy/DeepLearning_Intro" target="_blank"><img src="{{ '/assets/images/github.png' | relative_url }}" width="30px" title="DeepLearning_Intro on Github" alt="DeepLearning_Intro on Github"></a><br/>
-- دانلود مستقیم اسلایدها و کدها در یک فایل زیپ: <a  href="https://github.com/DaneshJoy/DeepLearning_Intro/archive/master.zip"><img src="{{ '/assets/images/download.png' | relative_url }}" width="40px" title="دانلود" alt="دانلود"></a><br/>
+- دانلود مستقیم اسلایدها در یک فایل زیپ: <a  href="https://github.com/DaneshJoy/DeepLearning_Intro/archive/master.zip"><img src="{{ '/assets/images/download.png' | relative_url }}" width="40px" title="دانلود" alt="دانلود"></a><br/>
 
 -------------------------------------
 ## فهرست مطالب
@@ -32,7 +32,7 @@ tags:
 
 -------------------------------------
 
-## لینک ویدیوهای آموزشی برای هر کد
+## لینک ویدیوهای آموزشی برای هر اسلاید
 
 -------------------------------------
 
