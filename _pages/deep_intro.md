@@ -14,8 +14,8 @@ tags:
 **اسلایدها و کدهای کلاس آموزش یادگیری عمیق مقدماتی**
 
 ## دانلود کدها
-- صفحه گیتهاب کدها: <a  href="http://github.com/DaneshJoy/DeepLearning_Intro" target="_blank"><img src="{{ '/assets/images/github.png' | relative_url }}" width="30px" title="DeepLearning_Intro on Github" alt="DeepLearning_Intro on Github"></a><br/>
-- دانلود مستقیم کدها: <a  href="https://github.com/DaneshJoy/DeepLearning_Intro/archive/master.zip"><img src="{{ '/assets/images/download.png' | relative_url }}" width="40px" title="دانلود" alt="دانلود"></a><br/>
+- صفحه گیتهاب  <a  href="http://github.com/DaneshJoy/DeepLearning_Intro" target="_blank"><img src="{{ '/assets/images/github.png' | relative_url }}" width="30px" title="DeepLearning_Intro on Github" alt="DeepLearning_Intro on Github"></a><br/>
+- دانلود مستقیم اسلایدها و کدها در یک فایل زیپ: <a  href="https://github.com/DaneshJoy/DeepLearning_Intro/archive/master.zip"><img src="{{ '/assets/images/download.png' | relative_url }}" width="40px" title="دانلود" alt="دانلود"></a><br/>
 
 -------------------------------------
 ## فهرست مطالب
@@ -23,6 +23,7 @@ tags:
 
 ## موضوع هر اسلاید
 | | |
+| :----: | -----: |
 | DeepLearning-Intro-01.pptx | **اسلاید 1: مقدمه و معرفی** |
 | DeepLearning-Intro-02.pptx | **اسلاید 2: روش‌های یادگیری عمیق** |
 | DeepLearning-Intro-03.pptx | **اسلاید 3: شبکه‌های عصبی کانولوشنی** |
