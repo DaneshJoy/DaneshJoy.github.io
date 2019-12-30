@@ -1,7 +1,7 @@
 ---
-permalink: /matlab/from_zero
-title: " آموزش متلب از صفر "
-excerpt: "matlab from Zero"
+permalink: /ai/deep_intro/
+title: " آموزش یادگیری عمیق مقدماتی "
+excerpt: "deep learning intro"
 sitemap: true
 comments: off
 tags:
