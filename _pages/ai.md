@@ -4,11 +4,17 @@ title: "آموزش های هوش مصنوعی و یادگیری عمیق"
 excerpt: "Artificial Intelligence, Deep Learning"
 sitemap: true
 comments: off
+feature_row:
+  - image_path: /assets/images/deep_intro.png
+    alt: "آموزش یادگیری عمیق (مقدماتی)"
+    title: "&nbsp; آموزش یادگیری عمیق (مقدماتی) &nbsp;"
+    excerpt: "معرفی یادگیری عمیق و انواع روش های آن<br/>مدل های مختلف، منابع یادگیری و ..."
+    url: "/ai/deep_intro"
+    btn_class: "btn--info"
+    btn_label: "مشاهده دوره"
 ---
 
 -------------------------------------
-
-<p> &#x202b; فعلا خالیه! </p>
 
 
 ## مطالب مرتبط از وبلاگ
