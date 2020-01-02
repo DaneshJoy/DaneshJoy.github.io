@@ -4,30 +4,9 @@ layout: single
 
 {{ content }}
 
- <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent posts" }}</h3>
+<!-- <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent posts" }}</h3>
 
-<h1>آخرین مطالب وبلاگ</h1>
-{% for post in site.posts limit:1 %}
-	<li>
-		<a href="{{ post.url }}">
-			<h3>{{ post.title }}</h3>
-			<p class="blogdate">{{ post.date | date: "%d %B %Y" }}</p>
-			<div>{{ post.content |truncatehtml | truncatewords: 60 }}</div>
-		</a>
-	</li>
-{% endfor %}
-<h1>Recent Posts</h1>
-{% for post in site.posts offset:1 limit:2 %}
-	<li>
-		<a href="{{ post.url }}">
-			<h3>{{ post.title }}</h3>
-			<p class="blogdate">{{ post.date | date: "%d %B %Y" }}</p>
-			<div>{{ post.content |truncatehtml | truncatewords: 60 }}</div>
-		</a>
-	</li>
-{% endfor %}
-
-<!--{% for post in paginator.posts %}
+{% for post in paginator.posts %}
   {% include archive-single.html %}
 {% endfor %}
 
