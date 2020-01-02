@@ -3,7 +3,7 @@ permalink: /ai/deep_intro/
 title: " آموزش یادگیری عمیق مقدماتی "
 excerpt: "deep learning intro"
 sitemap: true
-comments: off
+comments: on
 tags:
     - هوش مصنوعی
     - یادگیری عمیق

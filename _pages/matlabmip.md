@@ -3,7 +3,7 @@ permalink: /matlab/mip
 title: "پردازش تصاویر پزشکی با متلب"
 excerpt: "Medical Image Processing in Matlab"
 sitemap: true
-comments: off
+comments: on
 tags:
     - متلب
     - پردازش تصویر

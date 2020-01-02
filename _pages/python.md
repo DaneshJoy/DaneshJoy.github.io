@@ -3,7 +3,7 @@ permalink: /python/
 title: "آموزش های کدنویسی در پایتون"
 excerpt: "Python"
 sitemap: true
-comments: off
+comments: on
 ---
 
 -------------------------------------

@@ -3,7 +3,7 @@ permalink: /matlab/from_zero
 title: " آموزش متلب از صفر "
 excerpt: "matlab from Zero"
 sitemap: true
-comments: off
+comments: on
 tags:
     - متلب
     - پردازش سیگنال

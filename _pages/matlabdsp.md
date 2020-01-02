@@ -3,7 +3,7 @@ permalink: /matlab/dsp
 title: "پردازش سیگنال دیجیتال در متلب "
 excerpt: "Digital Signal Processing in Matlab"
 sitemap: true
-comments: off
+comments: on
 tags:
     - متلب
     - پردازش سیگنال

@@ -2,6 +2,7 @@
 permalink: /about/
 title: "درباره"
 excerpt: "بیشتر"
+comments: on
 tags:
   - About
   - درباره

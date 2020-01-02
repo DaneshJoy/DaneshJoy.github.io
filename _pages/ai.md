@@ -3,7 +3,7 @@ permalink: /ai/
 title: "آموزش های هوش مصنوعی و یادگیری عمیق"
 excerpt: "Artificial Intelligence, Deep Learning"
 sitemap: true
-comments: off
+comments: on
 feature_row:
   - image_path: /assets/images/deep_intro.png
     alt: "آموزش یادگیری عمیق (مقدماتی)"

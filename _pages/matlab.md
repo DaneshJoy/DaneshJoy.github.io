@@ -3,7 +3,7 @@ permalink: /matlab/
 title: "آموزش های کدنویسی در متلب"
 excerpt: "Matlab"
 sitemap: true
-comments: off
+comments: on
 feature_row:
   - image_path: /assets/images/matlab_from_zero.png
     alt: "آموزش متلب از صفر"

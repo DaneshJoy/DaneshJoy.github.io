@@ -3,6 +3,7 @@ permalink: /other/
 title: "آموزش های متفرقه"
 excerpt: "Other"
 sitemap: true
+comments: on
 tags:
     - Other
     - متفرقه
