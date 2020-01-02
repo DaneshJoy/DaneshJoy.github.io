@@ -1,6 +1,6 @@
 # main links
 main:
-    - title: "خانه"
+   - title: "خانه"
      url: /
    - title: "هوش مصنوعی"
      url: /ai/
