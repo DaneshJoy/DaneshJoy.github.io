@@ -12,8 +12,9 @@ tags:
 پایتون 2 امروز بازنشسته شد و به تاریخ پیوست...
 و پایتون 3 یکه تازی خواهد کرد 😎😉
 
-Python 2, thank you for your years of faithful service. 
-:thumbsup: Python 3, your time is now. 
+Python 2, thank you for your years of faithful service... 
+Python 3, your time is now. 
+:thumbsup:
 
 
 <img src="{{ '/assets/images/python-migration.png' | relative_url }}" alt="Python migration">

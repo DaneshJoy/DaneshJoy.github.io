@@ -2,6 +2,7 @@
 layout: single
 category: "blog"
 title:  "اولین آموزش مجازی من"
+comments: on
 tags:
   - وبلاگ
   - یادگیری عمیق

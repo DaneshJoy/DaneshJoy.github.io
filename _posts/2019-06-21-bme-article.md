@@ -2,6 +2,7 @@
 layout: single
 category: "blog"
 title:  "معرفی رشته مهندسی پزشکی"
+comments: on
 tags:
   - وبلاگ
   - مقاله

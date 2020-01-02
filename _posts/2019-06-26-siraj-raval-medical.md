@@ -2,6 +2,7 @@
 layout: single
 category: "blog"
 title:  "آموزش ساخت اپلیکیشن با هوش مصنوعی برای موبایل"
+comments: on
 tags:
   - وبلاگ
   - آموزش
