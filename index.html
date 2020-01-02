@@ -41,10 +41,7 @@ feature_row۲:
 
 
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent posts" }}</h3>
-----------------------------------
 
 {% for post in site.posts limit: 5 %}
   {% include archive-single.html %}
 {% endfor %}
-
-----------------------------------
