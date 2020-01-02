@@ -1240,7 +1240,7 @@ fa: &DEFAULT_FA
   powered_by                 : "طراحی شده توسط"
   website_label              : "سایت اینترنتی"
   email_label                : "پست الکترونیک"
-  recent_posts               : "آخرین مطالب"
+  recent_posts               : "آخرین مطالب وبلاگ"
   undefined_wpm              : ".(words_per_minute) _config.yml متغیر اشتباه در"
   comment_form_info          : ".آدرس ایمیل شما منتشر نخواهد شد. فیلدهای اجباری مشخص شده اند"
   comment_form_comment_label : "دیدگاه"
