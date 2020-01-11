@@ -121,7 +121,7 @@ author:
       # url: "https://daneshjoy.ir"
     - label: "توییتر"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/saeed_mhq"
+      url: "https://twitter.com/daneshjoy"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -144,7 +144,7 @@ footer:
   links:
     - label: "توییتر"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/saeed_mhq"
+      url: "https://twitter.com/daneshjoy"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
