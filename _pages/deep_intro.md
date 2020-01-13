@@ -48,7 +48,7 @@ tags:
 
 | **موضوع** | **یوتیوب** | **آپارت** |
 | قسمت 1: روش های با نظارت: شبکه های کانولوشنی و مدل های بازگشتی (00:24:47) | <a href="https://youtu.be/-YSoST4m0A0" target="_blank"><img src="{{ '/assets/images/youtube.png' | relative_url }}" width="30px" title="یوتیوب" alt="یوتیوب"></a> | <a href="https://aparat.com/v/irj79" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> |
-| قسمت 2: روش های بدون نظارت: اتوانکدرها و شبکه های مولد (00:24:53) <a href="https://youtu.be/F_5eav360Lo" target="_blank"><img src="{{ '/assets/images/youtube.png' | relative_url }}" width="30px" title="یوتیوب" alt="یوتیوب"></a> | <a href="https://aparat.com/v/7xKig" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> |
+| قسمت 2: روش های بدون نظارت: اتوانکدرها و شبکه های مولد (00:24:53) | <a href="https://youtu.be/F_5eav360Lo" target="_blank"><img src="{{ '/assets/images/youtube.png' | relative_url }}" width="30px" title="یوتیوب" alt="یوتیوب"></a> | <a href="https://aparat.com/v/7xKig" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> |
 
 -------------------------------------
 
