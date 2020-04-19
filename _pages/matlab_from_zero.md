@@ -18,6 +18,9 @@ tags:
 - صفحه گیتهاب کدها: <a  href="http://github.com/DaneshJoy/matlab_from_zero" target="_blank"><img src="{{ '/assets/images/github.png' | relative_url }}" width="30px" title="Matlab_from_Zero on Github" alt="Matlab_from_Zero on Github"></a><br/>
 - دانلود مستقیم کدها: <a  href="https://github.com/DaneshJoy/matlab_from_zero/archive/master.zip"><img src="{{ '/assets/images/download.png' | relative_url }}" width="40px" title="دانلود" alt="دانلود"></a><br/>
 
+## لیست پخش آپارات
+- <a  href="https://www.aparat.com/playlist/363987" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="آموزش متلب از صفر" alt="آموزش متلب از صفر"></a><br/>
+
 -------------------------------------
 ## فهرست مطالب
 -------------------------------------
@@ -36,12 +39,12 @@ clear / clc / sin / cos / tan / plot / logo
 ## لینک ویدیوهای جلسه 1
 
 | **موضوع** | **یوتیوب** | **آپارت** |
-| 1-1- چرا متلب | <a href="https://youtu.be/b927dRAXwNY" target="_blank"><img src="{{ '/assets/images/youtube.png' | relative_url }}" width="30px" title="یوتیوب" alt="یوتیوب"></a> | <a href="https://www.aparat.com/v/Am63Y" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> |
-| قسمت 1: فرمت های مرسوم تصاویر پزشکی | <a href="https://youtu.be/JTSoTTFx1CE" target="_blank"><img src="{{ '/assets/images/youtube.png' | relative_url }}" width="30px" title="یوتیوب" alt="یوتیوب"></a> | <a href="http://aparat.com/v/68AKo" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> |
-| قسمت 2: صفحه ها و جهت های آناتومیکی | <a href="https://youtu.be/WHgDRzEVgMQ" target="_blank"><img src="{{ '/assets/images/youtube.png' | relative_url }}" width="30px" title="یوتیوب" alt="یوتیوب"></a> | <a href="http://aparat.com/v/4HMFO" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> |
-| قسمت 3: نحوه اضافه کردن تولباکس ها به متلب | <a href="https://youtu.be/plIgjus59gM" target="_blank"><img src="{{ '/assets/images/youtube.png' | relative_url }}" width="30px" title="یوتیوب" alt="یوتیوب"></a> | <a href="http://aparat.com/v/p3V2t" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> |
-| قسمت 4: نحوه استفاده از تولباکس های معرفی شده | <a href="https://youtu.be/ZQbXGj571ng" target="_blank"><img src="{{ '/assets/images/youtube.png' | relative_url }}" width="30px" title="یوتیوب" alt="یوتیوب"></a> | <a href="http://aparat.com/v/NvdKb" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> |
-| قسمت 5: خواندن تصاویر Meta یا MHD و نحوه نمایش تصاویر | <a href="https://youtu.be/3-BFaQU2zjQ" target="_blank"><img src="{{ '/assets/images/youtube.png' | relative_url }}" width="30px" title="یوتیوب" alt="یوتیوب"></a> | <a href="http://aparat.com/v/c03zb" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> |
+| 1-1- چرا متلب | <a href="https://youtu.be/b927dRAXwNY" target="_blank"><img src="{{ '/assets/images/youtube.png' | relative_url }}" width="30px" title="یوتیوب" alt="یوتیوب"></a> | <a href="https://www.aparat.com/v/Am63Y?playlist=363987" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> |
+| 1-2- شروع کار | <a href="https://youtu.be/JTSoTTFx1CE" target="_blank"><img src="{{ '/assets/images/youtube.png' | relative_url }}" width="30px" title="یوتیوب" alt="یوتیوب"></a> | <a href="https://www.aparat.com/v/sfprX?playlist=363987" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> |
+| 1-3- متغیرها | <a href="https://youtu.be/WHgDRzEVgMQ" target="_blank"><img src="{{ '/assets/images/youtube.png' | relative_url }}" width="30px" title="یوتیوب" alt="یوتیوب"></a> | <a href="https://www.aparat.com/v/HkoA9?playlist=363987" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> |
+| 1-4- مثال تصویر و سیگنال | <a href="https://youtu.be/plIgjus59gM" target="_blank"><img src="{{ '/assets/images/youtube.png' | relative_url }}" width="30px" title="یوتیوب" alt="یوتیوب"></a> | <a href="https://www.aparat.com/v/C5H3B?playlist=363987" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> |
+| 1-5- کار با فایل اسکریپت | <a href="https://youtu.be/ZQbXGj571ng" target="_blank"><img src="{{ '/assets/images/youtube.png' | relative_url }}" width="30px" title="یوتیوب" alt="یوتیوب"></a> | <a href="https://www.aparat.com/v/L3qS4?playlist=363987" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> |
+| 1-6- بحث متفرقه | <a href="https://youtu.be/3-BFaQU2zjQ" target="_blank"><img src="{{ '/assets/images/youtube.png' | relative_url }}" width="30px" title="یوتیوب" alt="یوتیوب"></a> | <a href="https://www.aparat.com/v/58nBg?playlist=363987" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> |
 
 
 --------------------------
