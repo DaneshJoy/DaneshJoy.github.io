@@ -67,6 +67,7 @@ subplot / input / rand / randn / num2str / figure
 ```
 hold on / mean / function / sum / length / numel / close all / if / elseif / else / str2double / inputdlg / helpdlg / warndlg / errordlg / msgbox / beep / fprintf / sprintf
 ```
+
 --------------------------
 ## جلسه 4
 - **خواندن و نمایش تصاویر**
@@ -107,7 +108,7 @@ uigetfile / fullfile / vision.CascadeObjectDetector / rectangle / text / insertO
 
 -------------------------------------
 
-در حال حاضر ویدیوهای این دوره در دسترس نیستند!
+ویدیوها در حال آماده سازی و آپلود هستند
 
 -------------------------------------
 
