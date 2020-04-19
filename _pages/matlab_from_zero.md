@@ -33,6 +33,10 @@ tags:
 clear / clc / sin / cos / tan / plot / logo
 ```
 
+## لینک ویدیوها
+| **عنوان** | **یوتیوب** | **آپارت** |
+| --- | --- | --- |
+| 1-1- چرا متلب | <a href="https://youtu.be/Qfki1clmsPs" target="_blank"><img src="{{ '/assets/images/youtube.png' | relative_url }}" width="30px" title="یوتیوب" alt="یوتیوب"></a> | <a href="https://www.aparat.com/v/Am63Y" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> |
 --------------------------
 ## جلسه 2
 - &#x202b;**ساخت سیگنال سینوسی (بر اساس رادیان یا فرکانس)**
