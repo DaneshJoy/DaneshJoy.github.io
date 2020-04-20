@@ -14,12 +14,11 @@ tags:
 
 **کدهای کلاس آموزش متلب از صفر**
 
-## دانلود کدها
+## لینک های مفید
 - صفحه گیتهاب کدها: <a  href="http://github.com/DaneshJoy/matlab_from_zero" target="_blank"><img src="{{ '/assets/images/github.png' | relative_url }}" width="30px" title="Matlab_from_Zero on Github" alt="Matlab_from_Zero on Github"></a><br/>
 - دانلود مستقیم کدها: <a  href="https://github.com/DaneshJoy/matlab_from_zero/archive/master.zip"><img src="{{ '/assets/images/download.png' | relative_url }}" width="40px" title="دانلود" alt="دانلود"></a><br/>
-
-## لیست پخش آپارات
-- <a  href="https://www.aparat.com/playlist/363987" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="آموزش متلب از صفر" alt="آموزش متلب از صفر"></a><br/>
+- لیست پخش آپارات: <a  href="https://www.aparat.com/playlist/363987" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="آموزش متلب از صفر" alt="آموزش متلب از صفر"></a><br/>
+- لیست پخش یوتیوب: <a  href="https://www.youtube.com/playlist?list=PL9-MxhpGclp-Z7ffVSM9g7KIaUYCWvlc-" target="_blank"><img src="{{ '/assets/images/youtube.png' | relative_url }}" width="30px" title="آموزش متلب از صفر" alt="آموزش متلب از صفر"></a><br/>
 
 -------------------------------------
 ## فهرست مطالب
@@ -39,12 +38,12 @@ clear / clc / sin / cos / tan / plot / logo
 ## لینک ویدیوهای جلسه 1
 
 | **موضوع** | **یوتیوب** | **آپارت** |
-| 1-1- چرا متلب | <a href="" target="_blank"><img src="{{ '/assets/images/youtube.png' | relative_url }}" width="30px" title="یوتیوب" alt="یوتیوب"></a> | <a href="https://www.aparat.com/v/Am63Y?playlist=363987" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> |
-| 1-2- شروع کار | <a href="" target="_blank"><img src="{{ '/assets/images/youtube.png' | relative_url }}" width="30px" title="یوتیوب" alt="یوتیوب"></a> | <a href="https://www.aparat.com/v/sfprX?playlist=363987" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> |
-| 1-3- متغیرها | <a href="" target="_blank"><img src="{{ '/assets/images/youtube.png' | relative_url }}" width="30px" title="یوتیوب" alt="یوتیوب"></a> | <a href="https://www.aparat.com/v/HkoA9?playlist=363987" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> |
-| 1-4- مثال تصویر و سیگنال | <a href="" target="_blank"><img src="{{ '/assets/images/youtube.png' | relative_url }}" width="30px" title="یوتیوب" alt="یوتیوب"></a> | <a href="https://www.aparat.com/v/C5H3B?playlist=363987" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> |
-| 1-5- کار با فایل اسکریپت | <a href="" target="_blank"><img src="{{ '/assets/images/youtube.png' | relative_url }}" width="30px" title="یوتیوب" alt="یوتیوب"></a> | <a href="https://www.aparat.com/v/L3qS4?playlist=363987" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> |
-| 1-6- بحث متفرقه | <a href="" target="_blank"><img src="{{ '/assets/images/youtube.png' | relative_url }}" width="30px" title="یوتیوب" alt="یوتیوب"></a> | <a href="https://www.aparat.com/v/58nBg?playlist=363987" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> |
+| 1-1- چرا متلب | <a href="https://youtu.be/HS1eJPUPbQw" target="_blank"><img src="{{ '/assets/images/youtube.png' | relative_url }}" width="30px" title="یوتیوب" alt="یوتیوب"></a> | <a href="https://www.aparat.com/v/Am63Y?playlist=363987" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> |
+| 1-2- شروع کار | <a href="https://youtu.be/IWCEPrRJKdw" target="_blank"><img src="{{ '/assets/images/youtube.png' | relative_url }}" width="30px" title="یوتیوب" alt="یوتیوب"></a> | <a href="https://www.aparat.com/v/sfprX?playlist=363987" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> |
+| 1-3- متغیرها | <a href="https://youtu.be/04Chf2vZwBY" target="_blank"><img src="{{ '/assets/images/youtube.png' | relative_url }}" width="30px" title="یوتیوب" alt="یوتیوب"></a> | <a href="https://www.aparat.com/v/HkoA9?playlist=363987" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> |
+| 1-4- مثال تصویر و سیگنال | <a href="https://youtu.be/xFwoAVSKN-s" target="_blank"><img src="{{ '/assets/images/youtube.png' | relative_url }}" width="30px" title="یوتیوب" alt="یوتیوب"></a> | <a href="https://www.aparat.com/v/C5H3B?playlist=363987" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> |
+| 1-5- کار با فایل اسکریپت | <a href="https://youtu.be/jczD3XtnbYs" target="_blank"><img src="{{ '/assets/images/youtube.png' | relative_url }}" width="30px" title="یوتیوب" alt="یوتیوب"></a> | <a href="https://www.aparat.com/v/L3qS4?playlist=363987" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> |
+| 1-6- بحث متفرقه | <a href="https://youtu.be/l-RM_eMfTmI" target="_blank"><img src="{{ '/assets/images/youtube.png' | relative_url }}" width="30px" title="یوتیوب" alt="یوتیوب"></a> | <a href="https://www.aparat.com/v/58nBg?playlist=363987" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> |
 
 
 --------------------------
