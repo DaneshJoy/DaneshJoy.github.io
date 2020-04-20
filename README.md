@@ -1,7 +1,9 @@
 # [DaneshJoy Website](https://DaneshJoy.ir)
 ## [وب سایت دانش جوی](https://DaneshJoy.ir)
 
-![Uptime Robot status](https://img.shields.io/uptimerobot/status/m782815756-4ce47faea98205007d6e44ee.svg?style=for-the-badge) [![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/LICENSE) [![Tip Me via PayPal](https://img.shields.io/badge/ZarinPal-Donate-green.svg?style=for-the-badge)](https://zarinp.al/@saeeddiscovery)
+![Uptime Robot status](https://img.shields.io/uptimerobot/status/m782815756-4ce47faea98205007d6e44ee.svg?style=for-the-badge)
+[![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/LICENSE)
+[![Tip Me via ZarinPal](https://img.shields.io/badge/ZarinPal-Donate-green.svg?style=for-the-badge)](https://zarinp.al/@saeeddiscovery)
 
 ### محلی برای آموزش های رایگان
 برنامه نویسی و مهندسی پزشکی
