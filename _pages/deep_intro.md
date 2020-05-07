@@ -56,7 +56,7 @@ tags:
 -------------------------------------
 
 ### 3- شروع کار عملی
-| قسمت 1: زمین بازی! کار عملی با شبکه عصبی (00:10) | <a href="https://youtu.be/F_5eav360Lo" target="_blank"><img src="{{ '/assets/images/youtube.png' | relative_url }}" width="30px" title="یوتیوب" alt="یوتیوب"></a> | <a href="https://aparat.com/v/7xKig" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> |
+| قسمت 1: زمین بازی! کار عملی با شبکه عصبی (00:10) | <a href="https://youtu.be/F_5eav360Lo" target="_blank"><img src="{{ '/assets/images/youtube.png' | relative_url }}" width="30px" title="یوتیوب" alt="یوتیوب"></a> | <a href="https://www.aparat.com/v/vncro" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> |
 
 ادامه ویدیوها در حال ضبط یا آماده سازی هستند...
 
