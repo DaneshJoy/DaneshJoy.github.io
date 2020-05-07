@@ -42,18 +42,21 @@ tags:
 ### 1- اسلاید 1: مقدمه و معرفی
 
 | **موضوع** | **یوتیوب** | **آپارت** |
-| قسمت 1: تعریف های ابتدایی (00:14:24) | <a href="https://youtu.be/BhTodurax0w" target="_blank"><img src="{{ '/assets/images/youtube.png' | relative_url }}" width="30px" title="یوتیوب" alt="یوتیوب"></a> | <a href="https://aparat.com/v/sQS5R" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> |
-| قسمت 2: سیر پیدایش یادگیری عمیق، مزایا و چالش ها (00:17:20) | <a href="https://youtu.be/Qu6yT_zWcV4" target="_blank"><img src="{{ '/assets/images/youtube.png' | relative_url }}" width="30px" title="یوتیوب" alt="یوتیوب"></a> | <a href="https://aparat.com/v/qdxOi" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> |
+| قسمت 1: تعریف های ابتدایی (00:14) | <a href="https://youtu.be/BhTodurax0w" target="_blank"><img src="{{ '/assets/images/youtube.png' | relative_url }}" width="30px" title="یوتیوب" alt="یوتیوب"></a> | <a href="https://aparat.com/v/PwtqF" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> |
+| قسمت 2: سیر پیدایش یادگیری عمیق، مزایا و چالش ها (00:17) | <a href="https://youtu.be/Qu6yT_zWcV4" target="_blank"><img src="{{ '/assets/images/youtube.png' | relative_url }}" width="30px" title="یوتیوب" alt="یوتیوب"></a> | <a href="https://aparat.com/v/qdxOi" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> |
 
 -------------------------------------
 
 ### 2- اسلاید 2: روش‌های یادگیری عمیق
 
 | **موضوع** | **یوتیوب** | **آپارت** |
-| قسمت 1: روش های با نظارت: شبکه های کانولوشنی و مدل های بازگشتی (00:19:35) | <a href="https://youtu.be/1Sy4onIjuEE" target="_blank"><img src="{{ '/assets/images/youtube.png' | relative_url }}" width="30px" title="یوتیوب" alt="یوتیوب"></a> | <a href="https://aparat.com/v/sN3LF" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> |
-| قسمت 2: روش های بدون نظارت: اتوانکدرها و شبکه های مولد (00:24:53) | <a href="https://youtu.be/F_5eav360Lo" target="_blank"><img src="{{ '/assets/images/youtube.png' | relative_url }}" width="30px" title="یوتیوب" alt="یوتیوب"></a> | <a href="https://aparat.com/v/7xKig" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> |
+| قسمت 1: روش های با نظارت: شبکه های کانولوشنی و مدل های بازگشتی (00:19) | <a href="https://youtu.be/1Sy4onIjuEE" target="_blank"><img src="{{ '/assets/images/youtube.png' | relative_url }}" width="30px" title="یوتیوب" alt="یوتیوب"></a> | <a href="https://aparat.com/v/sN3LF" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> |
+| قسمت 2: روش های بدون نظارت: اتوانکدرها و شبکه های مولد (00:24) | <a href="https://youtu.be/F_5eav360Lo" target="_blank"><img src="{{ '/assets/images/youtube.png' | relative_url }}" width="30px" title="یوتیوب" alt="یوتیوب"></a> | <a href="https://aparat.com/v/7xKig" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> |
 
 -------------------------------------
+
+### 3- شروع کار عملی
+| قسمت 1: زمین بازی! کار عملی با شبکه عصبی (00:10) | <a href="https://youtu.be/F_5eav360Lo" target="_blank"><img src="{{ '/assets/images/youtube.png' | relative_url }}" width="30px" title="یوتیوب" alt="یوتیوب"></a> | <a href="https://aparat.com/v/7xKig" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> |
 
 ادامه ویدیوها در حال ضبط یا آماده سازی هستند...
 
