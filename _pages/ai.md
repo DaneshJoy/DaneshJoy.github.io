@@ -8,7 +8,7 @@ feature_row:
   - image_path: /assets/images/deep_intro.png
     alt: "آموزش یادگیری عمیق (مقدماتی)"
     title: "&nbsp; آموزش یادگیری عمیق (مقدماتی) &nbsp;"
-    excerpt: "معرفی یادگیری عمیق و انواع روش های آن<br/>مدل های مختلف، منابع یادگیری و ..."
+    excerpt: "معرفی یادگیری عمیق و انواع روش های آن<br/>مدل های مختلف، منابع یادگیری و ...<br/>به روز رسانی: (1399/2/18)"
     url: "/ai/deep_intro"
     btn_class: "btn--info"
     btn_label: "مشاهده دوره"
