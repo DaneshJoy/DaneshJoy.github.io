@@ -42,8 +42,8 @@ tags:
 ### 1- اسلاید 1: مقدمه و معرفی
 
 | **موضوع** | **آپارت** |
-| قسمت 1: تعریف های ابتدایی (00:14) | <a href="https://aparat.com/v/PwtqF" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> |
-| قسمت 2: سیر پیدایش یادگیری عمیق، مزایا و چالش ها (00:17) | <a href="https://aparat.com/v/qdxOi" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> |
+| قسمت 1: تعریف های ابتدایی  | <a href="https://aparat.com/v/PwtqF" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> (00:14) |
+| قسمت 2: سیر پیدایش یادگیری عمیق، مزایا و چالش ها  | <a href="https://aparat.com/v/qdxOi" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> (00:17) |
 
 -------------------------------------
 
