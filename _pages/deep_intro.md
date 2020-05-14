@@ -56,12 +56,14 @@ tags:
 -------------------------------------
 
 ### 3- کار عملی با شبکه عصبی
+
 | **موضوع** | **آپارت** |
 | قسمت 1: زمین بازی! کار عملی با شبکه عصبی (00:10) | <a href="https://aparat.com/v/MmiY5" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> |
 
 -------------------------------------
 
 ### 4- آموزش مدل
+
 | **موضوع** | **آپارت** |
 | قسمت 1: آماده سازی داده ها (00:18) | <a href="https://aparat.com/v/B6jLz" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> |
 | قسمت 2: طراحی مدل (00:14) | <a href="https://aparat.com/v/KolYTo" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> |
