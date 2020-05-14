@@ -49,24 +49,24 @@ tags:
 ### 2- اسلاید 2: روش‌های یادگیری عمیق
 
 | **موضوع** | **آپارت** |
-| قسمت 1: روش های با نظارت: شبکه های کانولوشنی و مدل های بازگشتی | (00:19) <a href="https://aparat.com/v/sN3LF" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> |
-| قسمت 2: روش های بدون نظارت: اتوانکدرها و شبکه های مولد  | (00:24) <a href="https://aparat.com/v/7xKig" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> |
+| قسمت 1: روش های با نظارت: شبکه های کانولوشنی و مدل های بازگشتی | <a href="https://aparat.com/v/sN3LF" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> (00:19) |
+| قسمت 2: روش های بدون نظارت: اتوانکدرها و شبکه های مولد |  <a href="https://aparat.com/v/7xKig" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> (00:24) |
 
 -------------------------------------
 
 ### 3- کار عملی با شبکه عصبی
 
 | **موضوع** | **آپارت** |
-| قسمت 1: زمین بازی! کار عملی با شبکه عصبی (00:10) | <a href="https://aparat.com/v/MmiY5" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> |
+| قسمت 1: زمین بازی! کار عملی با شبکه عصبی | <a href="https://aparat.com/v/MmiY5" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> (00:10) |
 
 -------------------------------------
 
 ### 4- آموزش مدل
 
 | **موضوع** | **آپارت** |
-| قسمت 1: آماده سازی داده ها (00:18) | <a href="https://aparat.com/v/B6jLz" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> |
-| قسمت 2: طراحی مدل (00:14) | <a href="https://aparat.com/v/KolYTo" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> |
-| قسمت 3: کدنویسی با تنسورفلو در کولب (00:24) | <a href="https://aparat.com/v/8hoWC" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> |
+| قسمت 1: آماده سازی داده ها | <a href="https://aparat.com/v/B6jLz" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> (00:18) |
+| قسمت 2: طراحی مدل | <a href="https://aparat.com/v/KolYTo" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> (00:14) |
+| قسمت 3: کدنویسی با تنسورفلو در کولب | <a href="https://aparat.com/v/8hoWC" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> (00:24) |
 
 -------------------------------------
 
