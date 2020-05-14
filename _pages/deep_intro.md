@@ -41,22 +41,33 @@ tags:
 
 ### 1- اسلاید 1: مقدمه و معرفی
 
-| **موضوع** | **یوتیوب** | **آپارت** |
-| قسمت 1: تعریف های ابتدایی (00:14) | <a href="https://youtu.be/BhTodurax0w" target="_blank"><img src="{{ '/assets/images/youtube.png' | relative_url }}" width="30px" title="یوتیوب" alt="یوتیوب"></a> | <a href="https://aparat.com/v/PwtqF" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> |
-| قسمت 2: سیر پیدایش یادگیری عمیق، مزایا و چالش ها (00:17) | <a href="https://youtu.be/Qu6yT_zWcV4" target="_blank"><img src="{{ '/assets/images/youtube.png' | relative_url }}" width="30px" title="یوتیوب" alt="یوتیوب"></a> | <a href="https://aparat.com/v/qdxOi" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> |
+| **موضوع** | **آپارت** |
+| قسمت 1: تعریف های ابتدایی (00:14) | <a href="https://aparat.com/v/PwtqF" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> |
+| قسمت 2: سیر پیدایش یادگیری عمیق، مزایا و چالش ها (00:17) | <a href="https://aparat.com/v/qdxOi" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> |
 
 -------------------------------------
 
 ### 2- اسلاید 2: روش‌های یادگیری عمیق
 
-| **موضوع** | **یوتیوب** | **آپارت** |
-| قسمت 1: روش های با نظارت: شبکه های کانولوشنی و مدل های بازگشتی (00:19) | <a href="https://youtu.be/1Sy4onIjuEE" target="_blank"><img src="{{ '/assets/images/youtube.png' | relative_url }}" width="30px" title="یوتیوب" alt="یوتیوب"></a> | <a href="https://aparat.com/v/sN3LF" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> |
-| قسمت 2: روش های بدون نظارت: اتوانکدرها و شبکه های مولد (00:24) | <a href="https://youtu.be/F_5eav360Lo" target="_blank"><img src="{{ '/assets/images/youtube.png' | relative_url }}" width="30px" title="یوتیوب" alt="یوتیوب"></a> | <a href="https://aparat.com/v/7xKig" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> |
+| **موضوع** | **آپارت** |
+| قسمت 1: روش های با نظارت: شبکه های کانولوشنی و مدل های بازگشتی (00:19) | <a href="https://aparat.com/v/sN3LF" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> |
+| قسمت 2: روش های بدون نظارت: اتوانکدرها و شبکه های مولد (00:24) | <a href="https://aparat.com/v/7xKig" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> |
 
 -------------------------------------
 
-### 3- شروع کار عملی
-| قسمت 1: زمین بازی! کار عملی با شبکه عصبی (00:10) | <a href="https://youtu.be/F_5eav360Lo" target="_blank"><img src="{{ '/assets/images/youtube.png' | relative_url }}" width="30px" title="یوتیوب" alt="یوتیوب"></a> | <a href="https://www.aparat.com/v/vncro" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> |
+### 3- کار عملی با شبکه عصبی
+| **موضوع** | **آپارت** |
+| قسمت 1: زمین بازی! کار عملی با شبکه عصبی (00:10) | <a href="https://aparat.com/v/MmiY5" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> |
+
+-------------------------------------
+
+### 4- آموزش مدل
+| **موضوع** | **آپارت** |
+| قسمت 1: آماده سازی داده ها (00:18) | <a href="https://aparat.com/v/B6jLz" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> |
+| قسمت 2: طراحی مدل (00:14) | <a href="https://aparat.com/v/KolYTo" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> |
+| قسمت 3: کدنویسی با تنسورفلو در کولب (00:24) | <a href="https://aparat.com/v/8hoWC" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> |
+
+-------------------------------------
 
 ادامه ویدیوها در حال ضبط یا آماده سازی هستند...
 
