@@ -17,7 +17,6 @@ tags:
 - صفحه گیتهاب: <a  href="https://github.com/DaneshJoy/DeepLearning_Intro" target="_blank"><img src="{{ '/assets/images/github.png' | relative_url }}" width="30px" title="DeepLearning_Intro on Github" alt="DeepLearning_Intro on Github"></a><br/>
 - دانلود مستقیم اسلایدها در یک فایل زیپ: <a  href="https://github.com/DaneshJoy/DeepLearning_Intro/archive/master.zip"><img src="{{ '/assets/images/download.png' | relative_url }}" width="40px" title="دانلود" alt="دانلود"></a><br/>
 - لیست پخش آپارات: <a  href="https://www.aparat.com/playlist/282124" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="آموزش یادگیری عمیق (مقدماتی)" alt="آموزش یادگیری عمیق (مقدماتی)"></a><br/>
-- لیست پخش یوتیوب: <a  href="" target="_blank"><img src="{{ '/assets/images/youtube.png' | relative_url }}" width="30px" title="آموزش یادگیری عمیق (مقدماتی)" alt="آموزش یادگیری عمیق (مقدماتی)"></a><br/>
 
 -------------------------------------
 ## فهرست مطالب
@@ -50,8 +49,8 @@ tags:
 ### 2- اسلاید 2: روش‌های یادگیری عمیق
 
 | **موضوع** | **آپارت** |
-| قسمت 1: روش های با نظارت: شبکه های کانولوشنی و مدل های بازگشتی (00:19) | <a href="https://aparat.com/v/sN3LF" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> |
-| قسمت 2: روش های بدون نظارت: اتوانکدرها و شبکه های مولد (00:24) | <a href="https://aparat.com/v/7xKig" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> |
+| قسمت 1: روش های با نظارت: شبکه های کانولوشنی و مدل های بازگشتی | (00:19) <a href="https://aparat.com/v/sN3LF" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> |
+| قسمت 2: روش های بدون نظارت: اتوانکدرها و شبکه های مولد  | (00:24) <a href="https://aparat.com/v/7xKig" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> |
 
 -------------------------------------
 
