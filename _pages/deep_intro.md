@@ -41,32 +41,32 @@ tags:
 ### 1- اسلاید 1: مقدمه و معرفی
 
 | **موضوع** | **آپارت** |
-| قسمت 1: تعریف های ابتدایی  | <a href="https://aparat.com/v/PwtqF" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> (00:14) |
-| قسمت 2: سیر پیدایش یادگیری عمیق، مزایا و چالش ها  | <a href="https://aparat.com/v/qdxOi" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> (00:17) |
+| قسمت 1: تعریف های ابتدایی  | <a href="https://aparat.com/v/PwtqF?playlist=282124" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> (00:14) |
+| قسمت 2: سیر پیدایش یادگیری عمیق، مزایا و چالش ها  | <a href="https://aparat.com/v/qdxOi?playlist=282124" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> (00:17) |
 
 -------------------------------------
 
 ### 2- اسلاید 2: روش‌های یادگیری عمیق
 
 | **موضوع** | **آپارت** |
-| قسمت 1: روش های با نظارت: شبکه های کانولوشنی و مدل های بازگشتی | <a href="https://aparat.com/v/sN3LF" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> (00:19) |
-| قسمت 2: روش های بدون نظارت: اتوانکدرها و شبکه های مولد |  <a href="https://aparat.com/v/7xKig" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> (00:24) |
+| قسمت 1: روش های با نظارت: شبکه های کانولوشنی و مدل های بازگشتی | <a href="https://aparat.com/v/sN3LF?playlist=282124" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> (00:19) |
+| قسمت 2: روش های بدون نظارت: اتوانکدرها و شبکه های مولد |  <a href="https://aparat.com/v/7xKig?playlist=282124" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> (00:24) |
 
 -------------------------------------
 
 ### 3- کار عملی با شبکه عصبی
 
 | **موضوع** | **آپارت** |
-| قسمت 1: زمین بازی! کار عملی با شبکه عصبی | <a href="https://aparat.com/v/MmiY5" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> (00:10) |
+| قسمت 1: زمین بازی! کار عملی با شبکه عصبی | <a href="https://aparat.com/v/MmiY5?playlist=282124" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> (00:10) |
 
 -------------------------------------
 
 ### 4- آموزش مدل
 
 | **موضوع** | **آپارت** |
-| قسمت 1: آماده سازی داده ها | <a href="https://aparat.com/v/B6jLz" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> (00:18) |
-| قسمت 2: طراحی مدل | <a href="https://aparat.com/v/KolYTo" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> (00:14) |
-| قسمت 3: کدنویسی با تنسورفلو در کولب | <a href="https://aparat.com/v/8hoWC" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> (00:24) |
+| قسمت 1: آماده سازی داده ها | <a href="https://aparat.com/v/B6jLz?playlist=282124" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> (00:18) |
+| قسمت 2: طراحی مدل | <a href="https://www.aparat.com/v/KolYT?playlist=282124" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> (00:14) |
+| قسمت 3: کدنویسی با تنسورفلو در کولب | <a href="https://aparat.com/v/8hoWC?playlist=282124" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> (00:24) |
 
 -------------------------------------
 
