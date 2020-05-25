@@ -70,6 +70,15 @@ tags:
 
 -------------------------------------
 
+### 5- شبکه های عصبی کانولوشنی (CNN)
+
+| **موضوع** | **آپارت** |
+| قسمت 1: شبکه های کانولوشنی یا CNN | <a href="https://www.aparat.com/v/52kB6?playlist=282124" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> (00:33) |
+| قسمت 2: نمایش کانولوشن تصاویر و Feature Visualization | <a href="https://www.aparat.com/v/5QHZ8?playlist=282124" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> (00:13) |
+| قسمت 3: کدنویسی و مقایسه دو مدل در تشخیص اعداد | <a href="https://www.aparat.com/v/Aa0v4?playlist=282124" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> (00:27) |
+| قسمت 4: معرفی مدل های معروف CNN | <a href="https://www.aparat.com/v/Clbes?playlist=282124" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> (00:27) |
+
+-------------------------------------
 ادامه ویدیوها در حال ضبط یا آماده سازی هستند...
 
 -------------------------------------
