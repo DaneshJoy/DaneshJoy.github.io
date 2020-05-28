@@ -80,7 +80,16 @@ tags:
 | قسمت 4: معرفی مدل های معروف CNN | <a href="https://www.aparat.com/v/Clbes?playlist=282124" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> (00:27) |
 
 -------------------------------------
-ادامه ویدیوها در حال ضبط یا آماده سازی هستند...
+
+### 6- معرفی منابع و راه اندازی بستر کدنویسی پایتون و تنسورفلو
+
+| **موضوع** | **آپارت** |
+| قسمت 1: معرفی منابع آموزشی رایگان | <a href="https://www.aparat.com/v/EOhTR?playlist=282124" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> (00:23) |
+| قسمت 2: راهنمای انتخاب قطعات سخت افزاری | <a href="https://www.aparat.com/v/UDew3?playlist=282124" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> (00:07) |
+| قسمت 3: راه اندازی بستر پایتون و تنسورفلو با GPU | <a href="https://www.aparat.com/v/VF4m7?playlist=282124" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> (00:35) |
+| قسمت 4: راهنمای پیاده سازی مقالات و صحبت های پایانی | <a href="https://www.aparat.com/v/CjhV9?playlist=282124" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> (00:09) |
+
+-------------------------------------
 
 -------------------------------------
 
