@@ -15,8 +15,12 @@ tags:
 
 ## لینک های مفید
 - صفحه گیتهاب: <a  href="https://github.com/DaneshJoy/DeepLearning_Intro" target="_blank"><img src="{{ '/assets/images/github.png' | relative_url }}" width="30px" title="DeepLearning_Intro on Github" alt="DeepLearning_Intro on Github"></a><br/>
-- دانلود مستقیم اسلایدها در یک فایل زیپ: <a  href="https://github.com/DaneshJoy/DeepLearning_Intro/archive/master.zip"><img src="{{ '/assets/images/download.png' | relative_url }}" width="40px" title="دانلود" alt="دانلود"></a><br/>
-- لیست پخش آپارات: <a  href="https://www.aparat.com/playlist/282124" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="آموزش یادگیری عمیق (مقدماتی)" alt="آموزش یادگیری عمیق (مقدماتی)"></a><br/>
+- دانلود مستقیم اسلایدها و کدها در یک فایل زیپ: <a  href="https://github.com/DaneshJoy/DeepLearning_Intro/archive/master.zip"><img src="{{ '/assets/images/download.png' | relative_url }}" width="40px" title="دانلود" alt="دانلود"></a><br/>
+-------------------------------------
+- صفحه گیتهاب کتاب های مفید یادگیری عمیق: <a  href="https://github.com/DaneshJoy/dl-books" target="_blank"><img src="{{ '/assets/images/github.png' | relative_url }}" width="30px" title="DeepLearning_Intro on Github" alt="DeepLearning_Intro on Github"></a><br/>
+- دانلود کتاب های مفید یادگیری عمیق در یک فایل زیپ: <a  href="https://github.com/DaneshJoy/dl-books/archive/master.zip"><img src="{{ '/assets/images/download.png' | relative_url }}" width="40px" title="دانلود" alt="دانلود"></a><br/>
+-------------------------------------
+- لیست فیلم ها در آپارات: <a  href="https://www.aparat.com/playlist/282124" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="آموزش یادگیری عمیق (مقدماتی)" alt="آموزش یادگیری عمیق (مقدماتی)"></a><br/>
 
 -------------------------------------
 ## فهرست مطالب
