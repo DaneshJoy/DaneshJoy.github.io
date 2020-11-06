@@ -20,7 +20,7 @@ tags:
 
 <div dir="ltr">
 
-[https://developer.nvidia.com/cuda-gpus](https://developer.nvidia.com/cuda-gpus)
+https://developer.nvidia.com/cuda-gpus
 
 </div>
 
@@ -29,7 +29,7 @@ tags:
 
 <div dir="ltr">
 
-[https://www.tensorflow.org/install/gpu](https://www.tensorflow.org/install/gpu)
+https://www.tensorflow.org/install/gpu
 
 </div>
 
@@ -40,25 +40,22 @@ tags:
 
 - قدم اول: نصب کتابخونه numba
 
-&#x202A;
-```
-U+202A conda install numba
-```
+&#x202D;```
+conda install numba```
+
 یا
-&#x202A;
-```
+
+<p dir='ltr'>
 pip install numba
-```
+</p>
 
 
 - قدم دوم: اجرای دستورهای زیر
 
 
-```python
-&#x202A;from numba import cuda
-
-&#x202A;cuda.detect()
-```
+&#x202A;```python
+from numba import cuda
+cuda.detect()```
 
 - تمام!
 
