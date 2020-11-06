@@ -45,16 +45,17 @@ conda install numba```
 
 یا
 
-&#x202A;```python
+&#x202A;```
 pip install numba```
 
 
 - قدم دوم: اجرای دستورهای زیر
 
 
-&#x202A;```python
+&#x202A;```
 from numba import cuda```
-&#x202A;```python
+
+&#x202A;```
 cuda.detect()```
 
 - تمام!
