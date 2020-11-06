@@ -18,13 +18,20 @@ tags:
 مشکلی که خیلیا برای راه اندازی بستر برنامه نویسی یادگیری عمیق دارن اینه که نمی‌دونن کارت گرافیکشون، قابلیت اجرای کدهای تنسورفلو رو داره یا نه.
 یکی از راه‌های فهمیدنش اینه که nvidia compute capability رو سرچ کنیم یا از لینک زیر، امتیاز کارت گرافیکمون رو ببینیم (فعلا سایت انویدیا، ایران رو تحریم کرده و باید با تغییر آی‌پی، لینک رو باز کنید)
 
-[CUDA GPUs](https://developer.nvidia.com/cuda-gpus)
+<div dir="ltr">
+
+[https://developer.nvidia.com/cuda-gpus](https://developer.nvidia.com/cuda-gpus)
+
+</div>
 
 
 که در زمان نوشتن این مطلب، (طبق لینک زیر که باز هم تحریمیم و نیاز به تغییر آی‌پی داره!) اجرای تنسورفلو روی GPU نیاز به امتیاز بالاتر از 3.5 داره
 
-[Tensorflow-gpu Hardware requirements](https://www.tensorflow.org/install/gpu)
+<div dir="ltr">
 
+[https://www.tensorflow.org/install/gpu](https://www.tensorflow.org/install/gpu)
+
+</div>
 
 ولی مشکل اینجاست که توی این لیست، همه‌ی مدل‌های کارت گرافیک وجود نداره و احتمالش هست که کارت گرافیک ما هم توش نباشه.
 
@@ -34,25 +41,25 @@ tags:
 - قدم اول: نصب کتابخونه numba
 
 <div dir="ltr">
-
-```
+<code>
 conda install numba
-```
-یا
-```
-pip install numba
-```
+</code>
 
+یا
+
+<code>
+pip install numba
+</code>
 </div>
 
 - قدم دوم: اجرای دستورهای زیر
 
 <div dir="ltr">
 
-```python
+<code>
 from numba import cuda
 cuda.detect()
-```
+</code>
 
 </div>
 
