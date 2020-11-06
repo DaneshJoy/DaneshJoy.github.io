@@ -40,28 +40,28 @@ https://www.tensorflow.org/install/gpu
 
 - قدم اول: نصب کتابخونه numba
 
-&#x202D;```
+&#x202A;```
 conda install numba```
 
 یا
 
-<p dir='ltr'>
-pip install numba
-</p>
+&#x202A;```python
+pip install numba```
 
 
 - قدم دوم: اجرای دستورهای زیر
 
 
 &#x202A;```python
-from numba import cuda
+from numba import cuda```
+&#x202A;```python
 cuda.detect()```
 
 - تمام!
 
 مثلا برای لپ تاپ من که کارت گرافیک Geforce MX130 داره (و اتفاقا فعلا توی لیست سایت انویدیا نیست!) خروجی به شکل زیر بود:
 
-<img src="{{ '/assets/images/numba-output.png' | relative_url }}" alt="Python migration">
+<img src="{{ '/assets/images/numba-output.png' | relative_url }}" alt="numba.cuda.detect() output">
 
 که مدل کارت گرافیک رو نشون میده و می‌گه که امتیاز 5 داره و ساپورت می‌شه!!
 (در حالی که ظرفیت 2 گیگ داره و در نگاه اول شاید به نظر نمی‌رسید که اینطور باشه!)
