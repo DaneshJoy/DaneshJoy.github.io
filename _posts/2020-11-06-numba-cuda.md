@@ -1,7 +1,7 @@
 ---
 layout: single
 category: "blog"
-title:  "نمایش مدل و امتیاز Compute Capability کارت گرافیک در پایتون"
+title:  "نمایش مدل و امتیاز کارت گرافیک در پایتون"
 comments: on
 tags:
   - وبلاگ
@@ -40,28 +40,25 @@ tags:
 
 - قدم اول: نصب کتابخونه numba
 
-<div dir="ltr">
-<code>
-conda install numba
-</code>
-
+&#x202A;
+```
+U+202A conda install numba
+```
 یا
-
-<code>
+&#x202A;
+```
 pip install numba
-</code>
-</div>
+```
+
 
 - قدم دوم: اجرای دستورهای زیر
 
-<div dir="ltr">
 
-<code>
-from numba import cuda
-cuda.detect()
-</code>
+```python
+&#x202A;from numba import cuda
 
-</div>
+&#x202A;cuda.detect()
+```
 
 - تمام!
 
