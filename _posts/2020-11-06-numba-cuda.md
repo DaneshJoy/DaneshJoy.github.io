@@ -33,7 +33,7 @@ tags:
 
 - قدم اول: نصب کتابخونه numba
 
-<div dir="rtl">
+<div dir="ltr">
 
 ```
 conda install numba
@@ -47,7 +47,7 @@ pip install numba
 
 - قدم دوم: اجرای دستورهای زیر
 
-<div dir="rtl">
+<div dir="ltr">
 
 ```python
 from numba import cuda
@@ -63,7 +63,7 @@ cuda.detect()
 <img src="{{ '/assets/images/numba-output.png' | relative_url }}" alt="Python migration">
 
 که مدل کارت گرافیک رو نشون میده و می‌گه که امتیاز 5 داره و ساپورت می‌شه!!
-با وجود این که ظرفیت 2 گیگ داره و در نگاه اول شاید به نظر نمی‌رسید که اینطور باشه
+(در حالی که ظرفیت 2 گیگ داره و در نگاه اول شاید به نظر نمی‌رسید که اینطور باشه!)
 
 البته من tensorflow-gpu رو هم نصب و تست کردم و ساپورتش تایید شد :thumbsup:
 
