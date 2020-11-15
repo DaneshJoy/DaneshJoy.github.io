@@ -10,6 +10,10 @@ tags:
     - آموزش
 ---
 
+
+<div id="7298406733"><script type="text/JavaScript" src="https://www.aparat.com/embed/kl1eE?data[rnddiv]=7298406733&data[responsive]=yes&&recom=none"></script></div>
+
+
 **کدهای کلاس پردازش سیگنال با متلب**
 
 ## دانلود کدها

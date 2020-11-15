@@ -12,6 +12,10 @@ tags:
     - آموزش
 ---
 
+
+<div id="5884225788"><script type="text/JavaScript" src="https://www.aparat.com/embed/Am63Y?data[rnddiv]=5884225788&data[responsive]=yes&&recom=none"></script></div>
+
+
 **کدهای کلاس آموزش متلب از صفر**
 
 ## لینک های مفید

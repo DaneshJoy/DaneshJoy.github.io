@@ -11,6 +11,10 @@ tags:
     - آموزش
 ---
 
+
+<div id="1575500676"><script type="text/JavaScript" src="https://www.aparat.com/embed/I4S8d?data[rnddiv]=1575500676&data[responsive]=yes&&recom=none"></script></div>
+
+
 **کدهای کلاس پردازش تصاویر پزشکی با متلب**
 
 ## دانلود کدها
