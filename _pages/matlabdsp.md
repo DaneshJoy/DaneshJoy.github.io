@@ -15,8 +15,6 @@ tags:
 
 ---
 
-**کلاس پردازش سیگنال با متلب**
-
 ## دانلود کدها
 - صفحه گیتهاب کدها: <a  href="http://github.com/DaneshJoy/matlabdsp" target="_blank"><img src="{{ '/assets/images/github.png' | relative_url }}" width="30px" title="MatlabDSP on Github" alt="MatlabDSP on Github"></a><br/>
 - دانلود مستقیم کدها: <a  href="https://github.com/DaneshJoy/matlabdsp/archive/master.zip"><img src="{{ '/assets/images/download.png' | relative_url }}" width="40px" title="دانلود" alt="دانلود"></a><br/>

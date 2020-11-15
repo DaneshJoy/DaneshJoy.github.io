@@ -16,8 +16,6 @@ tags:
 
 ---
 
-**کلاس پردازش تصاویر پزشکی با متلب**
-
 ## دانلود کدها
 
 - صفحه گیتهاب کدها: <a  href="https://github.com/DaneshJoy/matlabmip" target="_blank"><img src="{{ '/assets/images/github.png' | relative_url }}" width="30px" title="MatlabDSP on Github" alt="MatlabDSP on Github"></a><br/>

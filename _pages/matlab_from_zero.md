@@ -17,8 +17,6 @@ tags:
 
 ---
 
-**کلاس آموزش متلب از صفر**
-
 ## لینک های مفید
 - صفحه گیتهاب کدها: <a  href="http://github.com/DaneshJoy/matlab_from_zero" target="_blank"><img src="{{ '/assets/images/github.png' | relative_url }}" width="30px" title="Matlab_from_Zero on Github" alt="Matlab_from_Zero on Github"></a><br/>
 - دانلود مستقیم کدها: <a  href="https://github.com/DaneshJoy/matlab_from_zero/archive/master.zip"><img src="{{ '/assets/images/download.png' | relative_url }}" width="40px" title="دانلود" alt="دانلود"></a><br/>
