@@ -39,6 +39,17 @@ tags:
 ## لینک ویدیوهای آموزشی برای هر اسلاید
 (برای مشاهده هر ویدئو روی آیکون آپارات کلیک کنید)
 
+
+<div id="4212297454"><script type="text/JavaScript" src="https://www.aparat.com/embed/CjhV9?data[rnddiv]=4212297454&data[responsive]=yes&&recom=none"></script></div>
+
+
+
+<div id="2238542214"><script type="text/JavaScript" src="https://www.aparat.com/embed/CjhV9?data[rnddiv]=2238542214&data[responsive]=yes&&recom=none"></script></div>
+
+<style>.h_iframe-aparat_embed_frame{position:relative;}.h_iframe-aparat_embed_frame .ratio{display:block;width:100%;height:auto;}.h_iframe-aparat_embed_frame iframe{position:absolute;top:0;left:0;width:100%;height:100%;}</style><div class="h_iframe-aparat_embed_frame"><span style="display: block;padding-top: 57%"></span><iframe src="https://www.aparat.com/video/video/embed/videohash/PwtqF/vt/frame?&recom=self" allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe></div>
+
+<style>.h_iframe-aparat_embed_frame{position:relative;}.h_iframe-aparat_embed_frame .ratio{display:block;width:100%;height:auto;}.h_iframe-aparat_embed_frame iframe{position:absolute;top:0;left:0;width:100%;height:100%;}</style><div class="h_iframe-aparat_embed_frame"><span style="display: block;padding-top: 57%"></span><iframe src="https://www.aparat.com/video/video/embed/videohash/CjhV9/vt/frame" allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe></div>
+
 -------------------------------------
 
 ### 1- اسلاید 1: مقدمه و معرفی
