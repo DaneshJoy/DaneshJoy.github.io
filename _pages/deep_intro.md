@@ -16,7 +16,7 @@ tags:
 
 ---
 
-**اسلایدها و ویدیوهای کلاس آموزش یادگیری عمیق مقدماتی**
+**کلاس آموزش یادگیری عمیق مقدماتی**
 
 ## لینک های مفید
 - صفحه گیتهاب این آموزش: <a  href="https://github.com/DaneshJoy/DeepLearning_Intro" target="_blank"><img src="{{ '/assets/images/github.png' | relative_url }}" width="30px" title="DeepLearning_Intro on Github" alt="DeepLearning_Intro on Github"></a><br/>
