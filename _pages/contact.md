@@ -30,15 +30,4 @@ tags:
   </fieldset>
   <input type="submit" value="ارسال">
 
-  <script>
-  formbutton("create", {
-    onResponse: function(ok, setStatus) {
-    if (ok) {
-      setStatus("پیام شما ارسال شد. در اولین فرصت، بررسی خواهد شد. با تشکر.");
-    } else {
-      setStatus("<span style='color:red'>متاسفانه مشکلی در ارسال پیام ایجاد شده است</span>");
-    },
-    //...
-  };
-  </script>
 </form>
