@@ -18,7 +18,7 @@ tags:
 
 <!-- <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScFAgB1FNCANLIH-6sx1zbGt6Oj9m6-sgZBhlgss73DukyMig/viewform?embedded=true" width="640" height="796" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>  -->
 
-<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/DaneshJoy.info@gmail.com" method="post">
+<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/myybdbql" method="post">
   <fieldset id="fs-frm-inputs">
     <!-- <label for="full-name">نام</label> -->
     <input type="text" name="name" id="full-name" placeholder="نام شما" required="">
