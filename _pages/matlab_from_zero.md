@@ -40,7 +40,7 @@ clear / clc / sin / cos / tan / plot / logo
 
 ## لینک ویدیوهای جلسه 1
 
-| **موضوع** | **یوتیوب** | **آپارت** |
+| **موضوع** | **آپارت** |
 | 1-1- چرا متلب | <a href="https://youtu.be/HS1eJPUPbQw" target="_blank"><img src="{{ '/assets/images/youtube.png' | relative_url }}" width="30px" title="یوتیوب" alt="یوتیوب"></a> | <a href="https://www.aparat.com/v/Am63Y?playlist=363987" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> (00:09)|
 | 1-2- شروع کار | <a href="https://youtu.be/IWCEPrRJKdw" target="_blank"><img src="{{ '/assets/images/youtube.png' | relative_url }}" width="30px" title="یوتیوب" alt="یوتیوب"></a> | <a href="https://www.aparat.com/v/sfprX?playlist=363987" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> (00:09)|
 | 1-3- متغیرها | <a href="https://youtu.be/04Chf2vZwBY" target="_blank"><img src="{{ '/assets/images/youtube.png' | relative_url }}" width="30px" title="یوتیوب" alt="یوتیوب"></a> | <a href="https://www.aparat.com/v/HkoA9?playlist=363987" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> (00:19)|
