@@ -65,7 +65,7 @@ subplot / input / rand / randn / num2str / figure
 | **موضوع** | **آپارت** |
 | 2- 1- سیگنال سینوسی در متلب در حوزه زمان | <a href="https://aparat.com/v/Urofe?playlist=363987" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> (00:15)|
 | 2- 2- ساخت سیگنال سینوسی با فرکانس مشخص | <a href="https://aparat.com/v/5rbt3?playlist=363987" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> (00:13)|
-| &#x202b; 2- 3- رسم سیگنال و دستور plot | <a href="https://aparat.com/v/UhFTD?playlist=363987" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> (00:13)|
+| &#x202b;2- 3- رسم سیگنال و دستور plot | <a href="https://aparat.com/v/UhFTD?playlist=363987" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> (00:22)|
 
 --------------------------
 ## جلسه 3
