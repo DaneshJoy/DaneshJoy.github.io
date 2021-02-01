@@ -12,13 +12,21 @@ tags:
   - متفرقه
 ---
 
-توی این ویدیو، 9 تا از ویجت های کاربردی فلاتر معرفی شده ( که البته ظاهرا قرار بوده 10 تا باشه! :|)
+
+توی این ویدیو، 9 تا از ویجت های کاربردی فلاتر معرفی شده ( که البته ظاهرا قرار بوده 10 تا باشه! :thinking:)
 
 Top 10 Widgets every Flutter Developer should know
 
 <div id="5169109176"><script type="text/JavaScript" src="https://www.aparat.com/embed/KHwDe?data[rnddiv]=5169109176&data[responsive]=yes&&recom=none"></script></div>
 
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+<div class="container">
 لینک ویدیو در آپارات: <a href="http://aparat.com/v/KHwDe?playlist=813084" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a>
+</div>
 
 ---
 
