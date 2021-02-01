@@ -57,7 +57,7 @@ clear / clc / sin / cos / tan / plot / logo
 - **معرفی نویز**
 - **دستورات**
 ```
-subplot / input / rand / randn / num2str / figure
+plot / subplot / figure / input / rand / randn / num2str
 ```
 
 ## لینک ویدیوهای جلسه 2
