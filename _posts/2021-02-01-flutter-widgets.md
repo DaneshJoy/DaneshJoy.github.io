@@ -28,15 +28,15 @@ Top 10 Widgets every Flutter Developer should know
 
 ویجت ها و زمان معرفی هر کدوم توی ویدیو:
 ---
-- ✔ SafeArea Widget : 00:35
-- ✔ Wrap Widget : 02:17
-- ✔ RichText Widget : 04:20
-- ✔ ClipRRect Widget : 06:25
-- ✔ MediaQuery : 07:32
-- ✔ FutureBuilder : 10:25
-- ✔ Flexible :12:50
-- ✔ SizedBox : 14:36
-- ✔ Align : 16:02
+- ✔ SafeArea Widget : <a href="https://www.aparat.com/v/KHwDe?t=35" target="_blank">00:35</a>
+- ✔ Wrap Widget : <a href="https://www.aparat.com/v/KHwDe?t=137" target="_blank">02:17</a>
+- ✔ RichText Widget : <a href="https://www.aparat.com/v/KHwDe?t=260" target="_blank">04:20</a>
+- ✔ ClipRRect Widget : <a href="https://www.aparat.com/v/KHwDe?t=385" target="_blank">06:25</a>
+- ✔ MediaQuery : <a href="https://www.aparat.com/v/KHwDe?t=452" target="_blank">07:32</a>
+- ✔ FutureBuilder : <a href="https://www.aparat.com/v/KHwDe?t=625" target="_blank">10:25</a>
+- ✔ Flexible : <a href="https://www.aparat.com/v/KHwDe?t=770" target="_blank">12:50</a>
+- ✔ SizedBox : <a href="https://www.aparat.com/v/KHwDe?t=876" target="_blank">14:36</a>
+- ✔ Align : <a href="https://www.aparat.com/v/KHwDe?t=962" target="_blank">16:02</a>
 
 ---
 
