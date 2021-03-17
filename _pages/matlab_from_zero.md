@@ -41,12 +41,12 @@ clear / clc / sin / cos / tan / plot / logo
 ## لینک ویدیوهای جلسه 1
 
 | **موضوع** | **آپارت** |
-| 1- 1- چرا متلب | <a href="https://youtu.be/HS1eJPUPbQw" target="_blank"><img src="{{ '/assets/images/youtube.png' | relative_url }}" width="30px" title="یوتیوب" alt="یوتیوب"></a> | <a href="https://www.aparat.com/v/Am63Y?playlist=363987" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> (00:09)|
-| 1- 2- شروع کار | <a href="https://youtu.be/IWCEPrRJKdw" target="_blank"><img src="{{ '/assets/images/youtube.png' | relative_url }}" width="30px" title="یوتیوب" alt="یوتیوب"></a> | <a href="https://www.aparat.com/v/sfprX?playlist=363987" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> (00:09)|
-| 1- 3- متغیرها | <a href="https://youtu.be/04Chf2vZwBY" target="_blank"><img src="{{ '/assets/images/youtube.png' | relative_url }}" width="30px" title="یوتیوب" alt="یوتیوب"></a> | <a href="https://www.aparat.com/v/HkoA9?playlist=363987" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> (00:19)|
-| 1- 4- مثال تصویر و سیگنال | <a href="https://youtu.be/xFwoAVSKN-s" target="_blank"><img src="{{ '/assets/images/youtube.png' | relative_url }}" width="30px" title="یوتیوب" alt="یوتیوب"></a> | <a href="https://www.aparat.com/v/C5H3B?playlist=363987" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> (00:27)|
-| 1- 5- کار با فایل اسکریپت | <a href="https://youtu.be/jczD3XtnbYs" target="_blank"><img src="{{ '/assets/images/youtube.png' | relative_url }}" width="30px" title="یوتیوب" alt="یوتیوب"></a> | <a href="https://www.aparat.com/v/L3qS4?playlist=363987" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> (00:22)|
-| 1- 6- بحث متفرقه | <a href="https://youtu.be/l-RM_eMfTmI" target="_blank"><img src="{{ '/assets/images/youtube.png' | relative_url }}" width="30px" title="یوتیوب" alt="یوتیوب"></a> | <a href="https://www.aparat.com/v/58nBg?playlist=363987" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> (00:17)|
+| 1- 1- چرا متلب | <a href="https://youtu.be/HS1eJPUPbQw" target="_blank"><img src="{{ '/assets/images/youtube.png' | relative_url }}" width="30px" title="یوتیوب" alt="یوتیوب"></a> | <a href="https://www.aparat.com/v/Am63Y?playlist=363987" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> (9 دقیقه)|
+| 1- 2- شروع کار | <a href="https://youtu.be/IWCEPrRJKdw" target="_blank"><img src="{{ '/assets/images/youtube.png' | relative_url }}" width="30px" title="یوتیوب" alt="یوتیوب"></a> | <a href="https://www.aparat.com/v/sfprX?playlist=363987" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> (9 دقیقه)|
+| 1- 3- متغیرها | <a href="https://youtu.be/04Chf2vZwBY" target="_blank"><img src="{{ '/assets/images/youtube.png' | relative_url }}" width="30px" title="یوتیوب" alt="یوتیوب"></a> | <a href="https://www.aparat.com/v/HkoA9?playlist=363987" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> (19 دقیقه)|
+| 1- 4- مثال تصویر و سیگنال | <a href="https://youtu.be/xFwoAVSKN-s" target="_blank"><img src="{{ '/assets/images/youtube.png' | relative_url }}" width="30px" title="یوتیوب" alt="یوتیوب"></a> | <a href="https://www.aparat.com/v/C5H3B?playlist=363987" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> (27 دقیقه)|
+| 1- 5- کار با فایل اسکریپت | <a href="https://youtu.be/jczD3XtnbYs" target="_blank"><img src="{{ '/assets/images/youtube.png' | relative_url }}" width="30px" title="یوتیوب" alt="یوتیوب"></a> | <a href="https://www.aparat.com/v/L3qS4?playlist=363987" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> (22 دقیقه)|
+| 1- 6- بحث متفرقه | <a href="https://youtu.be/l-RM_eMfTmI" target="_blank"><img src="{{ '/assets/images/youtube.png' | relative_url }}" width="30px" title="یوتیوب" alt="یوتیوب"></a> | <a href="https://www.aparat.com/v/58nBg?playlist=363987" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> (17 دقیقه)|
 
 
 --------------------------
@@ -63,9 +63,10 @@ plot / subplot / figure / input / rand / randn / num2str
 ## لینک ویدیوهای جلسه 2
 
 | **موضوع** | **آپارت** |
-| 2- 1- سیگنال سینوسی در متلب در حوزه زمان | <a href="https://aparat.com/v/Urofe?playlist=363987" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> (00:15)|
-| 2- 2- ساخت سیگنال سینوسی با فرکانس مشخص | <a href="https://aparat.com/v/5rbt3?playlist=363987" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> (00:13)|
-| &#x202b;2- 3- رسم سیگنال و دستور plot | <a href="https://aparat.com/v/UhFTD?playlist=363987" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> (00:22)|
+| 2- 1- سیگنال سینوسی در متلب در حوزه زمان | <a href="https://aparat.com/v/Urofe?playlist=363987" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> (15 دقیقه)|
+| 2- 2- ساخت سیگنال سینوسی با فرکانس مشخص | <a href="https://aparat.com/v/5rbt3?playlist=363987" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> (13 دقیقه)|
+| &#x202b;2- 3- رسم سیگنال و دستور plot | <a href="https://aparat.com/v/UhFTD?playlist=363987" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> (22 دقیقه)|
+| 2- 3- تعامل با کاربر | <a href="https://aparat.com/v/CHWLo?playlist=363987" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> (دقیقه 20)|
 
 --------------------------
 ## جلسه 3
