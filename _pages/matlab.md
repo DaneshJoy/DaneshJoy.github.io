@@ -1,6 +1,6 @@
 ---
 permalink: /matlab/
-title: "آموزش های کدنویسی در متلب"
+title: "کدنویسی در متلب"
 excerpt: "Matlab"
 sitemap: true
 comments: on

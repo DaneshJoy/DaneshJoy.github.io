@@ -1,6 +1,6 @@
 ---
 permalink: /ai/
-title: "آموزش های هوش مصنوعی و یادگیری عمیق"
+title: "هوش مصنوعی و یادگیری عمیق"
 excerpt: "Artificial Intelligence, Deep Learning"
 sitemap: true
 comments: on
