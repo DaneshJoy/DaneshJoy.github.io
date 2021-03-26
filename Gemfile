@@ -1,7 +1,6 @@
 source "https://rubygems.org"
 
 gem "jekyll"
-gemspec
 gem "tzinfo-data"
 
 # If you have any plugins, put them here!
