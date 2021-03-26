@@ -8,7 +8,7 @@ feature_row:
   - image_path: /assets/images/matlab_from_zero.png
     alt: "آموزش متلب از صفر"
     title: "&nbsp; آموزش متلب از صفر &nbsp;"
-    excerpt: "کار با ماتریس ها و پردازش سیگنال و تصویر مقدماتی<br/>دستورات پر کاربرد، کار با توابع و ...<br/>به روز رسانی: (1399/12/27)"
+    excerpt: "کار با ماتریس ها و پردازش سیگنال و تصویر مقدماتی<br/>دستورات پر کاربرد، کار با توابع و ...<br/>به روز رسانی: (1400/01/07)"
     url: "/matlab/from_zero"
     btn_class: "btn--info"
     btn_label: "مشاهده دوره"
