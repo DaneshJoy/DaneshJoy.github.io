@@ -50,6 +50,11 @@
     @include breakpoint($x-large) {
       max-width: $max-width;
     }
+
+  }
+
+  &__form {
+    background-color: transparent;
   }
 
   .search-input {
@@ -60,14 +65,14 @@
     outline: none;
     box-shadow: none;
     background-color: transparent;
-    font-size: $type-size-5;
+    font-size: $type-size-3;
 
     @include breakpoint($large) {
-      font-size: $type-size-4;
+      font-size: $type-size-2;
     }
 
     @include breakpoint($x-large) {
-      font-size: $type-size-3;
+      font-size: $type-size-1;
     }
   }
 
@@ -119,6 +124,7 @@
   font-style: normal;
   text-decoration: underline;
 }
+
 .archive__item-excerpt .ais-Highlight {
   color: $primary-color;
   font-style: normal;
