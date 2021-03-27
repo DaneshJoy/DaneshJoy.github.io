@@ -1,8 +1,11 @@
 ---
 layout: home
+classes: wide
 author_profile: true
+
 excerpt: "محلی برای آموزش های رایگان هوش مصنوعی و برنامه نویسی پایتون و متلب و ..."
-feature_row:
+
+feature_row1:
   - image_path: /assets/images/ai_logo.png
     alt: "هوش مصنوعی"
     title: "&nbsp; هوش مصنوعی &nbsp;"
@@ -28,15 +31,15 @@ feature_row_blog:
   - image_path: /assets/images/daneshjoy-blog.png
     alt: "وبلاگ"
     title: "&nbsp; وبلاگ &nbsp;"
-    excerpt: "یادداشت های من"
+    excerpt: "یادداشت‌ها و آموزش‌های کوتاه"
     url: "/blog/"
     btn_class: "btn--info"
-    btn_label: "مشاهده یادداشت ها"
+    btn_label: "مشاهده وبلاگ"
 ---
 
-{% include feature_row %}
+{% include feature_row id="feature_row1" %}
 
-{% include feature_row id="feature_row_blog" type="right" %}
+{% include feature_row id="feature_row_blog" type="center" %}
 
 <h2>{{ site.data.ui-text[site.locale].recent_posts | default: "Recent posts" }}</h2>
 
