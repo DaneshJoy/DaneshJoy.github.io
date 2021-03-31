@@ -68,6 +68,7 @@ plot / subplot / figure / input / rand / randn / num2str
 | &#x202b;2- 3- رسم سیگنال و دستور plot | <a href="https://aparat.com/v/UhFTD?playlist=363987" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> (22 دقیقه)|
 | 2- 4- ساخت بردار و ماتریس | <a href="https://aparat.com/v/siXW1?playlist=363987" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> (7 دقیقه)|
 | 2- 5- تعامل با کاربر | <a href="https://aparat.com/v/CHWLo?playlist=363987" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> (20 دقیقه)|
+| 2- 6- رسم نمودارهای عجیب | <a href="https://aparat.com/v/GVtSW?playlist=363987" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a> (12 دقیقه)|
 
 --------------------------
 ## جلسه 3
