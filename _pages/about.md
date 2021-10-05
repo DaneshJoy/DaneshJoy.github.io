@@ -30,7 +30,7 @@ tags:
 که قطعاً در بهبود کیفیت آموزش ها و روحیه من! موثر خواهد بود
 می توانید از یکی از روش های زیر استفاده کرده و با هر نیتی و هر مقداری، نقشی در ادامه این راه داشته باشید. :+1: :heartpulse: <br/>
 
-* یک قهوه کاپوچینو یا حتی لاته! مهمان شما :wink:
+* یک قهوه کاپوچینو یا حتی لاته! مهمان شما :wink: :coffee:
 
 <a href="http://www.coffeete.ir/saeed_mhq">
   <img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" style="width:260px;" />
