@@ -10,9 +10,6 @@
       {% else %}
         {% assign author_src = author.avatar | relative_url %}
       {% endif %}
-      <a href="http://www.coffeete.ir/saeed_mhq">
-       <img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" style="width:260px;" />
-      </a>
       {% if author.home %}
         {% if author.home contains "://" %}
           {% assign author_link = author.home %}
@@ -40,6 +37,10 @@
       </p>
     {% endif %}
   </div>
+  
+  <a href="http://www.coffeete.ir/saeed_mhq">
+    <img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" style="width:260px;" />
+  </a>
 
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse">{{ site.data.ui-text[site.locale].follow_label | remove: ":" | default: "Follow" }}</button>
