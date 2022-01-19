@@ -27,16 +27,22 @@ tags:
 <div id="81055109604"><script type="text/JavaScript" src="https://www.aparat.com/embed/sATK6?data[rnddiv]=81055109604&data[responsive]=yes"></script></div>
 
 <div class="d-flex justify-content-center">
-لینک ویدیو در آپارات: <a href="https://www.aparat.com/v/sATK6" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a>
+مشاهده ویدیو در آپارات: <a href="https://www.aparat.com/v/sATK6?playlist=1449148" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات">
+نصب تنسورفلو GPU بدون دردسر با Anaconda</a>
 </div>
+
+
+
 
 - ویدئو دوم: آماده سازی spyder برای محیط جدید و اجرای کدهای tensorflow-gpu:
 
 <div id="43745070700"><script type="text/JavaScript" src="https://www.aparat.com/embed/NQTDg?data[rnddiv]=43745070700&data[responsive]=yes"></script></div>
 
 <div class="d-flex justify-content-center">
-لینک ویدیو در آپارات: <a href="https://www.aparat.com/v/NQTDg" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات"></a>
+مشاهده ویدیو در آپارات: <a href="https://www.aparat.com/v/NQTDg?playlist=1449148" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="اپارات" alt="اپارات">
+آماده سازی spyder برای استفاده از tensorflow-gpu در محیط مجزا</a>
 </div>
+
 ---
 
 
